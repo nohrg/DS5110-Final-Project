@@ -1,0 +1,387 @@
+sending_ms_id,ms_name,ms_type
+1,Academy of the Pacific Rim,Public
+2,Acton Boxboro Regional High School,Public
+3,Advent School,Independent
+4,Agassiz,Public
+5,Alexander Graham Middle School,Public
+6,Amigos School,Public
+7,Annie Sullivan Middle School,Public
+8,Another Course To College,Public
+9,Archbishop Williams High School,Parochial
+10,Arlington High School,Public
+11,Ashland Middle School,Public
+12,Baldwin,Public
+13,Bancroft School,Independent
+14,Bartlett School,Independent
+15,Bay Farm Montessori Academy,Independent
+16,Beacon Academy,Independent
+17,Beatrice H. Wood School,Public
+18,Beaver Country Day School,Independent
+19,Bedford High School,Public
+20,Bellesini Academy,Independent
+21,Belmont Day School,Independent
+22,Belmont Hill School,Independent
+23,Benjamin Banneker Public School,Public
+24,Benjamin Franklin Classical Charter School,Charter
+25,Benjamin Franklin Classical Charter School,Public
+26,Berwick Academy,Independent
+27,Bigelow Middle School,Public
+28,Bird Middle School,Public
+29,Bishop Feehan High School,Parochial
+30,Blanchard Middle School,Public
+31,Blessed Sacrament School,Parochial
+32,Boston Archdiocesan Choir School,Parochial
+33,Boston College High School,Parochial
+34,Boston Collegiate Charter School,Public
+35,Boston Latin Academy,Public
+36,Boston Latin School,Public
+37,Boston Prep Charter School,Public
+38,Boston Renaissance Charter Public School,Charter
+39,Boston Renaissance Charter School,Charter
+40,Boston Renaissance Charter School,Public
+41,Boston Teachers Union School,Public
+42,Boston Trinity Academy,Parochial
+43,Brimmer and May School,Independent
+44,British International School of Boston,Independent
+45,British School of Boston,Independent
+46,Brooke Roslinale,Charter
+47,Brooke Roslinale,Public
+48,Brooke Roslindale,Charter
+49,Brookline High School,Public
+50,Brooks School,Independent
+51,Brookwood School,Independent
+52,Brown Middle School,Public
+53,"Buckingham, Browne & Nichols School",Independent
+54,C. E. Roderick School,Public
+55,Cambridge Friends School,Independent
+56,Cambridge Montessori School,Independent
+57,Cambridge Ringe and Latin School,Public
+58,Cambridgeport School,Public
+59,Canton High School,Public
+60,Cape Cod Academy,Independent
+61,Catholic Memorial High School,Parochial
+62,Centennial High School,Public
+63,Charles E. Brown Middle School,Public
+64,Charles River School,Independent
+65,Chatham High School,Public
+66,Chenery Middle School,Public
+67,ChungSol Middle School-Korea,Independent
+68,Cincinatti Hills Christian Academy,Parochial
+69,Clarke Middle School,Public
+70,Cohasset Middle School,Public
+71,Cole Middle School,Public
+72,Community Charter School of Cambridge,Public
+73,Community Day Public School,Public
+74,Concord Middle School,Public
+75,Curtis Middle School,Public
+76,Cyril Brennan Middle School,Public
+77,Dana Hall School,Independent
+78,Dedham Country Day School,Independent
+79,Dedham High School,Public
+80,Dedham Middle School,Public
+81,Delphi Academy,Independent
+82,Derby Academy,Independent
+83,Devotion Elementary School,Public
+84,Dexter Southfield School,Independent
+85,Diamond Middle School,Public
+86,Dover Sherborn High School,Public
+87,Dover Sherborn Middle School,Public
+88,Driscoll School,Public
+89,Duxbury High School,Public
+90,Duxbury Middle School,Public
+91,E. W. Thurston Middle School,Public
+92,Eaglebrook School,Independent
+93,Easton Junior High School,Public
+94,Edgemont Junior-Senior High School,Public
+95,Edith C. Baker School,Public
+96,Edward Brooke Charter School Mattapan,Charter
+97,Eleanor N. Johnson Middle School,Public
+98,Eliot Montessori School,Independent
+99,Ephraim Curtis Middle School,Public
+100,Epiphany Middle School,Independent
+101,Episcopal Academy,Independent
+102,Esperanza Academy,Independent
+103,Excel Academy Charter- East Boston,Charter
+104,Excel Academy Charter- East Boston,Public
+105,F. A. Day Middle School,Public
+106,Falmouth Academy,public
+107,Falmouth High School,Public
+108,Fay School,Independent
+109,Fay School,Public
+110,Fayerweather School,Independent
+111,Fenn School,Independent
+112,Framingham High School,Public
+113,Franklin D Roosevelt K-8 School,Public
+114,Franklin High School,Public
+115,Freeman Centennial School,Public
+116,Fuller Middle School,Public
+117,Furnace Brook Middle School,Public
+118,Galvin Middle School-Canton,Public
+119,Gardner Pilot Academy,Public
+120,Gates Intermediate School,Public
+121,Gibbons Middle School,Public
+122,Gilmore Academy,Public
+123,Glover Elementary School,Public
+124,Governor Academy,Independent
+125,Grafton Middle School,Public
+126,Greengate School,Independent
+127,Greenhill School,Independent
+128,Greenwich Academy,Independent
+129,Groton Dunstable Regional High School,Public
+130,Groton School,Independent
+131,Guillmette,Public
+132,Hamilton Wenham High School,Public
+133,Hampstead Academy,Independent
+134,Hanover High,Public
+135,Hanover High School,Public
+136,Hanover Middle School,Public
+137,Hatherly Elementary School,Public
+138,Heath School,Public
+139,High Rock Middle School,Public
+140,High Rock School,Public
+141,Hillside School-Marlboro,Independent
+142,Hingham High School,Public
+143,Hingham Middle School,Public
+144,Holy Name School,Parochial
+145,Home School,Home School
+146,Hopkins School,Independent
+147,Horace Mann Middle School,Public
+148,International School of Boston,Independent
+149,Jackson School,Parochial
+150,James P. Timilty Middle School,Public
+151,Jenkins Elementary School,Public
+152,John F. Parker Middle School,Public
+153,John Glenn Middle School,Public
+154,Johnson Middle School,Public
+155,Jonas Clarke Middle School,Public
+156,Joseph Brooks MS,Public
+157,Joyce Kilmer School,Public
+158,Kennedy Middle School,Public
+159,Kennedy Middle School - Natick,Public
+160,Kennedy Middle School-Waltham,Public
+161,Kennedy School,Public
+162,Kent Place School,Independent
+163,King Open,Public
+164,King Philip Middle School,Public
+165,King Philip Regional High School,Public
+166,Kingsley Montessori School,Independent
+167,KIPP Academy Lynn Charter School,Public
+168,Lawrence Academy,Independent
+169,Lawrence Family Development Charter School,Charter
+170,Lawrence High School,Public
+171,Leonard School,Public
+172,Lexington High School,Public
+173,Lincoln School-Lincoln,Public
+174,Lincoln-Sudbury High School,Public
+175,Lincoln/Sudbury Regional High School,Public
+176,Littleton Middle School,Public
+177,Lovejoy High School,Public
+178,Lynnfield Middle School,Public
+179,Malden Catholic High School,Parochial
+180,Manchester Essex Regional High School,Public
+181,Maple Street School,Independent
+182,Marblehead Veterans Middle School,Public
+183,Maria Weston Chapman Middle School,Public
+184,Marianapolis Preparatory School,Independent
+185,Marshfield High School,Public
+186,Mary E. Curley Middle School,Public
+187,Marymount School of Rome,Independent
+188,McCall Middle School,Public
+189,Medfield High School,Public
+190,Medway High School,Public
+191,Medway Middle School,Public
+192,Mercymount Country Day,Independent
+193,Merriam School,Public
+194,Middlebrook School,Public
+195,Middlesex School,Independent
+196,Miles River Middle School,Public
+197,Mill Pond School,Public
+198,Millis High School,Public
+199,Millis Middle School,Public
+200,Milton Academy,Independent
+201,Milton High School,Public
+202,Mission Hill Pilot School,Public
+203,Monsignor James J. Haddad Middle School,Parochial
+204,Montrose School,Parochial
+205,Montrose School,Independent
+206,Morse School,Public
+207,Mother Caroline Academy,Independent
+208,Mount Alvernia Academy,Parochial
+209,Mount Alvernia Academy,Independent
+210,Mount Alvernia High School,Parochial
+211,Mount St. Charles Academy,Parochial
+212,Nashoba Brooks School,Independent
+213,Natick High School,Public
+214,Nativity Preparatory School,Independent
+215,Nativity School of Worcester,Independent
+216,Needham High School,Public
+217,Neighborhood House Charter School,Public
+218,Neighborhood Schools,Independent
+219,New Canaan High School,Public
+220,New England Baptist Academy,Parochial
+221,"New Trier High School, Northfield, IL",Public
+222,Newton Country Day School of the Sacred Heart,Independent
+223,Newton North High School,Public
+224,"Newton School (S. Strafford, VT)",Public
+225,Newton South High School,Public
+226,North Andover High School,Public
+227,North Attleboro High School,Public
+228,North Attleborough Middle School,Public
+229,North Pembroke Elementary School,Public
+230,North Smithfileld HS,Public
+231,Northbrook Academy,Independent
+232,Norton Middle School,Public
+233,Norwell High School,Public
+234,Norwell Middle School,Public
+235,Norwood High School,Public
+236,Notre Dame Academy,Parochial
+237,Oak Hill Middle School,Public
+238,Oliver Ames High School,Public
+239,Orchard Gardens K-8 Pilot School,Public
+240,Ottoson Middle School,Public
+241,Our Lady’s Mission Grammar,Parochial
+242,Overlook Middle School,Public
+243,Park Street School,Independent
+244,Parthum (Edward Parthum),Public
+245,Patrick F. Lyndon Pilot School,Public
+246,Pelham Memorial High School,Public
+247,Pembroke Community Middle School,Public
+248,Phillips Academy,Independent
+249,Phillips Exeter Academy,Independent
+250,"Pierce Middle School, Milton",Public
+251,Pingree School,Independent
+252,Pingry School,Independent
+253,Pioneer Valley Regional School,Public
+254,Pittsford Mendon High School,Public
+255,Plymouth Community Intermediate School,Public
+256,Plymouth South High School,Public
+257,Pollard Middle School,Public
+258,Pope John XXIII High School,Public
+259,Princeton Charter School,Charter
+260,Prospect Hill Academy Charter School,Charter
+261,Provincetown High School,Public
+262,Qualters Middle School,Public
+263,Quincy Upper School,Public
+264,R. G. O’Donnell Middle School,Public
+265,R. J. Grey Junior High School,Public
+266,R.J. Murphy School,Public
+267,Randolph Community Middle School,Public
+268,Rashi School,Independent
+269,Remington Middle School,Public
+270,Riverdale School,Independent
+271,Robert Adams Middle School,Public
+272,Robert F. Kennedy School,Public
+273,Robert H. Adams Middle School,Public
+274,Rockland High School,Public
+275,Rockport Middle School,Public
+276,Roger Ludlow Middle School,Public
+277,Roger Middle School,Public
+278,Roxbury Latin School,Independent
+279,Roxbury Preparatory- Mission Hill Charter School,Charter
+280,Roxbury Preparatory- Mission Hill Charter School,Public
+281,Runkle School,Public
+282,Sacred Heart Elementary,Parochial
+283,Sacred Heart School-Roslindale,Parochial
+284,Saint John School-Wellesley,Parochial
+285,Shady Hill School,Independent
+286,Sharon Middle School,Public
+287,Shepherd Hill Regional High School,Public
+288,Shore Country Day School,Independent
+289,Shrewsbury High School,Public
+290,Shrewsbury Middle School,Public
+291,Simsbury High School,Public
+292,Solomon Schechter Day School of Greater Boston,Independent
+293,Souhegan Coop High School,Public
+294,South Lawrence East Middle School,Public
+295,Sparrell Elementary School,Public
+296,St. Agatha’s School,Parochial
+297,St. Anne's,Parochial
+298,St. Anne’s-Charlottesville,Parochial
+299,St. Brendan School,Parochial
+300,St. Catherine of Siena,Parochial
+301,St. Catherine of Siena School,Parochial
+302,St. Clement,Parochial
+303,St. John the Evangelist,Parochial
+304,St. John the Evangelist School-Canton,Parochial
+305,St. John's High School,Parochial
+306,St. Kevin School,Parochial
+307,St. Mark’s School,Independent
+308,"St. Mary Academy, Bay View",Parochial
+309,St. Mary of the Assumption,Parochial
+310,St. Mary of the Hills School,Parochial
+311,St. Mary School,Parochial
+312,St. Mary-Sacred Heart School,Parochial
+313,St. Mary's High School - Lynn,Parochial
+314,St. Matthew School,Parochial
+315,St. Patrick's - Kenya,Independent
+316,St. Patrick’s School,Parochial
+317,St. Paul’s School - Hingham,Parochial
+318,"St. Paul’s School, NH",Independent
+319,St. Peter’s - Cambridge,Parochial
+320,St. Sebastian's School,Independent
+321,St. Sebastian’s School,Independent
+322,St. Tarcisius School,Parochial
+323,Sun Valley Middle School,Public
+324,Tabor Academy,Independent
+325,Tanglin Trust School (Singapore),Independent
+326,Tenacre Country Day School,Independent
+327,Thacher Montessori School,Independent
+328,Thayer Academy,Independent
+329,The American School in London,Independent
+330,The American School in Switzerland,Independent
+331,The Bromfield School,Public
+332,The Chestnut Hill School,Independent
+333,The Community School of Naples,Independent
+334,The Fenn School,Independent
+335,The Fessenden School,Independent
+336,The Gordon School,Independent
+337,The Graham and Park School,Public
+338,The Learning Project Elementary School,Independent
+339,The Longfellow School,Public
+340,The Meadowbrook School of Weston,Independent
+341,The Park School,Independent
+342,The Rectory School,Independent
+343,The Rivers School,Independent
+344,The Sage School,Independent
+345,The Village School,Independent
+346,Thomas Blake Middle School,Public
+347,Thomas W. Pyle Middle School,Public
+348,Thurston Middle School,Public
+349,Tower School,Independent
+350,Trinity Prep School,Independent
+351,Trottier Middle School,Public
+352,UP Academy Charter School of Boston,Charter
+353,Ursuline Academy,Parochial
+354,W. B. Rogers Middle School,Public
+355,Wachusett Regional High School,Public
+356,Walnut Hill School for the Arts,Independent
+357,Walpole High School,Public
+358,Walsh Middle School,Public
+359,Waltham High School,Public
+360,Washington Irving Middle School,Public
+361,Watertown Middle School,Public
+362,Wayland Academy,Independent
+363,Wayland High School,Public
+364,Wayland Middle School,Public
+365,Wellesley High School,Public
+366,Wellesley Middle School,Public
+367,Westford Academy,Independent
+368,Westford Academy,Public
+369,Weston High School,Public
+370,Weston Middle School,Public
+371,Westwood Senior High School,Public
+372,Weymouth High School,Public
+373,William H. Galvin Middle School,Public
+374,William H. Lincoln School,Public
+375,William H. Ohrenberger School,Public
+376,Williams Middle School,Public
+377,Williston Northampton School,Independent
+378,Wilson Middle School,Public
+379,Winchester High School,Public
+380,Winnacunnet High School,Public
+381,Winsor School,Independent
+382,Woburn Memorial High School,Public
+383,Woodstock Academy,Independent
+384,Worcester Academy,Independent
+385,Worcester Technical High School,Public
+386,Xaverian Brothers,Parochial
