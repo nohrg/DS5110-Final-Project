@@ -1,0 +1,1862 @@
+university_id,institution_name,state,region,year,student_count,percent_admitted,percent_yield
+110404,California Institute of Technology,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,2518,3,50
+166027,Harvard University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,37613,3,83
+166683,Massachusetts Institute of Technology,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,12829,4,85
+190150,Columbia University in the City of New York,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,37954,4,64
+243744,Stanford University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,20955,4,84
+130794,Yale University,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,16416,5,68
+144050,University of Chicago,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,21578,5,85
+217156,Brown University,Rhode Island,"New England (CT, ME, MA, NH, RI, VT)",2022,11766,5,67
+182670,Dartmouth College,New Hampshire,"New England (CT, ME, MA, NH, RI, VT)",2022,7360,6,62
+186131,Princeton University,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,8946,6,69
+198419,Duke University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,20664,6,55
+121345,Pomona College,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1814,7,55
+143978,The Chicago School at Chicago,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,1383,7,0
+147767,Northwestern University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,26993,7,55
+164465,Amherst College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,2017,7,43
+167358,Northeastern University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,39566,7,41
+190415,Cornell University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,26510,7,68
+215062,University of Pennsylvania,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,32205,7,68
+216287,Swarthmore College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1713,7,42
+221999,Vanderbilt University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,14693,7,52
+161086,Colby College,Maine,"New England (CT, ME, MA, NH, RI, VT)",2022,2438,8,52
+162928,Johns Hopkins University,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,39399,8,49
+168342,Williams College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,2355,8,44
+110662,University of California-Los Angeles,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,49010,9,50
+161004,Bowdoin College,Maine,"New England (CT, ME, MA, NH, RI, VT)",2022,1996,9,59
+165060,Signature Healthcare Brockton Hospital School of Nursing,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,232,9,100
+189097,Barnard College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3685,9,66
+227757,Rice University,Texas,"Southwest (AZ, NM, OK, TX)",2022,9185,9,44
+112260,Claremont McKenna College,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1413,10,54
+168148,Tufts University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,15270,10,50
+211893,Curtis Institute of Music,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,152,10,83
+446561,Stanbridge University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,3124,10,92
+110635,University of California-Berkeley,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,48230,11,46
+139658,Emory University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,16063,11,38
+153384,Grinnell College,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1790,11,41
+160755,Tulane University of Louisiana,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,15598,11,51
+190008,Circle in the Square Theatre School,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,43,11,13
+192110,The Juilliard School,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1061,11,48
+211440,Carnegie Mellon University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,17136,11,44
+123961,University of Southern California,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,52694,12,41
+131496,Georgetown University,District of Columbia,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,24038,12,49
+179867,Washington University in St Louis,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,18292,12,48
+190099,Colgate University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3222,12,31
+191515,Hamilton College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2131,12,41
+191597,Helene Fuld College of Nursing,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,792,12,67
+193900,New York University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,64951,12,49
+211635,Citizens School of Nursing,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,87,12,100
+115409,Harvey Mudd College,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,997,13,40
+152080,University of Notre Dame,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,13618,13,60
+215594,Reading Hospital School of Health Sciences,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,305,13,100
+230959,Middlebury College,Vermont,"New England (CT, ME, MA, NH, RI, VT)",2022,4813,13,39
+130697,Wesleyan University,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,3872,14,35
+160977,Bates College,Maine,"New England (CT, ME, MA, NH, RI, VT)",2022,1928,14,46
+164988,Boston University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,45548,14,31
+168218,Wellesley College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,2538,14,51
+212911,Haverford College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1482,14,45
+487092,Emory University-Oxford College,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1126,15,14
+126678,Colorado College,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,2431,16,42
+139755,Georgia Institute of Technology-Main Campus,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,53737,17,42
+164924,Boston College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,16604,17,35
+173258,Carleton College,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2106,17,37
+198385,Davidson College,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2091,17,49
+199120,University of North Carolina at Chapel Hill,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,34089,17,46
+217493,Rhode Island School of Design,Rhode Island,"New England (CT, ME, MA, NH, RI, VT)",2022,2706,17,54
+234207,Washington and Lee University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2255,17,39
+421878,Eastern International College-Jersey City,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,681,17,100
+121257,Pitzer College,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1233,18,48
+170976,University of Michigan-Ann Arbor,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,53422,18,47
+135726,University of Miami,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,21990,19,25
+197133,Vassar College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2607,19,32
+234076,University of Virginia-Main Campus,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,30044,19,42
+417327,City College-Altamonte Springs,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,282,19,74
+441982,Franklin W Olin College of Engineering,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,418,19,45
+120768,Pacific Oaks College,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1497,20,100
+184968,Holy Name Medical Center-Sister Claire Tynan School of Nursing,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,204,20,100
+449764,Visible Music College,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,320,20,75
+110653,University of California-Irvine,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,38000,21,22
+178697,College of the Ozarks,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1675,21,76
+197221,Webb Institute,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,102,21,66
+199847,Wake Forest University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,9739,21,38
+164580,Babson College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,4632,22,39
+190372,The Cooper Union for the Advancement of Science and Art,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,980,22,54
+195191,St. Joseph's College of Nursing,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,378,22,100
+202523,Denison University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,2491,22,25
+480781,California Miramar University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,283,22,37
+134130,University of Florida,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,62811,23,44
+167835,Smith College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,3192,23,37
+216597,Villanova University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,11571,23,32
+110680,University of California-San Diego,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,44050,24,21
+138868,Point University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4189,24,46
+190576,CUNY Graduate School and University Center,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,10690,24,14
+233374,University of Richmond,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4492,24,24
+414878,Trine University-Regional/Non-Traditional Campuses,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,7498,24,55
+111081,California Institute of the Arts,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1475,25,36
+134097,Florida State University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,49885,25,31
+156295,Berea College,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1450,25,65
+198756,Johnson C Smith University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1193,25,46
+110705,University of California-Santa Barbara,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,28257,26,17
+137847,The University of Tampa,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,11767,26,18
+188854,American Musical and Dramatic Academy,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1799,26,22
+195526,Skidmore College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2854,26,23
+417734,Southeast Missouri Hospital College of Nursing and Health Sciences,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,168,26,100
+437732,The Chicago School-College of Nursing,Texas,"Southwest (AZ, NM, OK, TX)",2022,134,26,46
+197027,United States Merchant Marine Academy,New York,U.S. Service schools,2022,953,27,60
+201645,Case Western Reserve University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,12656,27,15
+417868,Clinton Essex Warren Washington BOCES,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,39,27,100
+482413,DeVry College of New York,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,780,27,100
+123165,Scripps College,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1171,28,30
+141060,Spelman College,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3873,28,15
+173902,Macalester College,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2197,28,23
+187648,Eastern New Mexico University-Main Campus,New Mexico,"Southwest (AZ, NM, OK, TX)",2022,6892,28,92
+451413,Center for Allied Health Education,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,628,28,7
+202985,Hannah E Mullins School of Practical Nursing,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,47,29,100
+464226,Ottawa University-Surprise,Arizona,"Southwest (AZ, NM, OK, TX)",2022,966,29,75
+491914,Yeshiva Gedola Tiferes Yerachmiel,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,193,29,100
+102377,Tuskegee University,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3037,30,15
+110422,California Polytechnic State University-San Luis Obispo,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,23290,30,29
+175342,Alcorn State University,Mississippi,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3417,30,25
+194499,Plaza College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1377,30,55
+430883,Cayuga Onondaga BOCES-Practical Nursing Program,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,35,30,100
+167871,Southeastern Technical Institute,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,267,31,92
+209922,Reed College,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,1594,31,14
+211273,Bryn Mawr College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1814,31,36
+228778,The University of Texas at Austin,Texas,"Southwest (AZ, NM, OK, TX)",2022,55710,31,48
+229267,Trinity University,Texas,"Southwest (AZ, NM, OK, TX)",2022,2762,31,19
+120537,Hope International University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1235,32,33
+199184,University of North Carolina School of the Arts,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1111,32,58
+231651,Regent University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,13625,32,23
+420325,Yeshiva D'monsey Rabbinical College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,109,32,100
+120838,Pacific States University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,29,33,100
+133650,Florida Agricultural and Mechanical University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,10428,33,37
+147129,Methodist College,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,636,33,56
+176770,Cox College,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1043,33,100
+211291,Bucknell University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3877,33,27
+231624,William & Mary,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,10856,33,27
+422695,Pacific College,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,507,33,80
+482459,DeVry University-Florida,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,402,33,0
+482653,DeVry University-Virginia,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,98,33,100
+483814,Standard Healthcare Services-College of Nursing,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,948,33,96
+487746,Yeshiva Zichron Aryeh,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,44,33,0
+133872,AdventHealth University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2118,34,32
+181604,College of Saint Mary,Nebraska,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,981,34,60
+203535,Kenyon College,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,2834,34,19
+203544,Kettering College,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,1256,34,49
+208725,New Hope Christian College-Eugene,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,52,34,41
+211477,Central Penn College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1223,34,60
+213385,Lafayette College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2764,34,21
+230047,Brigham Young University-Hawaii,Hawaii,"Far West (AK, CA, HI, NV, OR, WA)",2022,3338,34,67
+204501,Oberlin College,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,4026,35,23
+212009,Dickinson College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2206,35,20
+130590,Trinity College,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,2294,36,25
+166124,College of the Holy Cross,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,3310,36,35
+180692,The University of Montana-Western,Montana,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,1816,36,51
+202073,Cleveland Institute of Music,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,349,36,30
+212577,Franklin and Marshall College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2070,36,15
+110644,University of California-Davis,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,42046,37,18
+168847,Baker College,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,5318,37,42
+213543,Lehigh University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,7839,37,27
+167057,The New England Conservatory of Music,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,878,38,16
+491288,University of Wisconsin-Milwaukee Flex,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,954,38,100
+120254,Occidental College,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,2029,39,21
+122409,San Diego State University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,40745,39,22
+165015,Brandeis University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,6121,39,25
+165264,Laboure College of Healthcare,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,1829,39,30
+195030,University of Rochester,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,13860,39,21
+216940,Williamson College of the Trades,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,279,39,75
+110583,California State University-Long Beach,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,43106,40,18
+111638,Casa Loma College-Los Angeles,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,626,40,75
+128902,Connecticut College,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,1976,40,18
+166939,Mount Holyoke College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,2573,40,28
+176053,Mississippi College,Mississippi,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4763,40,39
+198066,Brevard College,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,782,40,20
+232256,Hampden-Sydney College,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,878,40,21
+232618,Centra College,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,292,40,50
+243799,Blue Hills Regional Technical School,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,23,40,75
+417646,Saline County Career Center,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,18,40,100
+441609,Yeshiva Shaarei Torah of Rockland,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,225,40,63
+482431,DeVry University-California,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,2805,40,79
+482477,DeVry University-Illinois,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,42124,40,85
+486947,Chamberlain University-Michigan,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,840,40,50
+493619,Young Americans College of the Performing Arts,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,30,40,100
+117946,Loyola Marymount University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,11066,41,18
+131159,American University,District of Columbia,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,16240,41,22
+132903,University of Central Florida,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,80332,41,33
+179955,William Jewell College,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,892,41,35
+214476,Heritage Valley Health System School of Nursing,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,65,41,71
+219639,Baptist Health Sciences University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,893,41,34
+114354,FIDM-Fashion Institute of Design & Merchandising,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,2115,42,42
+122506,San Francisco Conservatory of Music,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,459,42,28
+145646,Illinois Wesleyan University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,1579,42,21
+155423,Washburn Institute of Technology,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1583,42,89
+159009,Grambling State University,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,5716,42,19
+196079,Binghamton University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,20307,42,18
+211802,DLP Conemaugh Memorial Medical Center,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,179,42,54
+139719,Fort Valley State University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2875,43,21
+139959,University of Georgia,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,44713,43,37
+165662,Emerson College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,6290,43,19
+175421,Belhaven University,Mississippi,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4879,43,24
+207157,Randall University,Oklahoma,"Southwest (AZ, NM, OK, TX)",2022,330,43,59
+217624,Allen University,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,796,43,13
+217882,Clemson University,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,31228,43,20
+480985,Midwives College of Utah,Utah,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,385,43,33
+487658,Academy of Interactive Entertainment,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,122,43,34
+490498,Digital Media Institute,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,51,43,50
+490513,Bais Medrash Mayan Hatorah,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,47,43,76
+100858,Auburn University,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,35381,44,26
+137351,University of South Florida,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,57901,44,24
+157100,Kentucky Christian University,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,759,44,42
+200484,Trinity Bible College and Graduate School,North Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,284,44,48
+215053,Pennsylvania College of Art and Design,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,258,44,27
+446048,Ave Maria University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1372,44,24
+107044,Harding University,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,5539,45,79
+119775,Newschool of Architecture and Design,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,327,45,24
+145637,University of Illinois Urbana-Champaign,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,62417,45,28
+157030,Kentucky Mountain Bible College,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,97,45,67
+162283,Coppin State University,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2228,45,23
+163286,University of Maryland-College Park,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,44086,45,23
+178615,Truman State University,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,4316,45,32
+197993,Bennett College,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,176,45,6
+198109,Cabarrus College of Health Sciences,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,637,45,77
+201061,Art Academy of Cincinnati,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,276,45,20
+206491,Wilberforce University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,606,45,10
+217633,Anderson University,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4602,45,35
+228343,Southwestern University,Texas,"Southwest (AZ, NM, OK, TX)",2022,1524,45,18
+230816,Bennington College,Vermont,"New England (CT, ME, MA, NH, RI, VT)",2022,948,45,17
+247649,Landmark College,Vermont,"New England (CT, ME, MA, NH, RI, VT)",2022,1071,45,48
+496618,National Institute for Medical Assistant Advancement (NIMAA),Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,214,45,74
+141167,Thomas University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1929,46,61
+142294,The College of Idaho,Idaho,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,1120,46,13
+186867,Stevens Institute of Technology,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,10402,46,17
+189088,Bard College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3285,46,15
+203960,Mercy College of Ohio,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,1707,46,46
+215309,University of Pittsburgh-Titusville,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,23,46,44
+223232,Baylor University,Texas,"Southwest (AZ, NM, OK, TX)",2022,23152,46,18
+232265,Hampton University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3842,46,13
+442356,Pennsylvania College of Health Sciences,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2178,46,36
+455664,The Chicago School at Los Angeles,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,4604,46,69
+488350,Yeshiva Gedolah Shaarei Shmuel,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,150,46,86
+110714,University of California-Santa Cruz,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,21109,47,12
+164535,Assabet Valley Regional Technical School,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,54,47,100
+172334,Spring Arbor University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,2858,47,21
+196866,Union College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2140,47,15
+199193,North Carolina State University at Raleigh,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,40544,47,34
+207403,Oklahoma Baptist University,Oklahoma,"Southwest (AZ, NM, OK, TX)",2022,1500,47,23
+490054,HCI College,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1446,47,71
+120865,Pacific Union College,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1226,48,17
+138354,University of West Florida,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,17296,48,27
+164368,Hult International Business School,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,3306,48,20
+190594,CUNY Hunter College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,27061,48,19
+217925,Columbia International University,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3514,48,73
+226152,Texas A & M International University,Texas,"Southwest (AZ, NM, OK, TX)",2022,9968,48,35
+236948,University of Washington-Seattle Campus,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,57633,48,30
+237057,Whitman College,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,1560,48,13
+449384,Gnomon,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1071,48,83
+491817,Seminary Bnos Chaim,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,207,48,73
+121150,Pepperdine University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,12256,49,17
+131469,George Washington University,District of Columbia,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,29136,49,22
+138293,Webber International University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1271,49,21
+144005,Chicago State University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,2975,49,5
+169442,College for Creative Studies,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,1563,49,33
+176406,Tougaloo College,Mississippi,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,718,49,10
+196097,Stony Brook University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,32674,49,17
+215293,University of Pittsburgh-Pittsburgh Campus,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,35659,49,17
+226231,LeTourneau University,Texas,"Southwest (AZ, NM, OK, TX)",2022,4137,49,21
+240444,University of Wisconsin-Madison,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,53219,49,29
+476692,Yeshiva Gedolah Zichron Leyma,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,47,49,67
+126359,Bel-Rea Institute of Animal Technology,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,265,50,48
+136950,Rollins College,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3198,50,14
+137953,Trinity Baptist College,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,469,50,51
+138761,Andrew College,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,299,50,22
+156356,Brescia University,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,772,50,10
+163976,St. John's College,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,629,50,27
+165334,Clark University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,4256,50,16
+190512,CUNY Bernard M Baruch College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,22995,50,20
+194569,Davis College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,164,50,80
+194578,Pratt Institute-Main,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,7353,50,17
+195304,Sarah Lawrence College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1804,50,15
+224244,Dallas Christian College,Texas,"Southwest (AZ, NM, OK, TX)",2022,268,50,45
+231165,Vermont State University,Vermont,"New England (CT, ME, MA, NH, RI, VT)",2022,7540,50,27
+417716,Applied Technology Services,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,250,50,100
+417752,Messenger College,Texas,"Southwest (AZ, NM, OK, TX)",2022,25,50,100
+449612,Louisiana Culinary Institute,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,120,50,43
+460871,Chamberlain University-Virginia,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,981,50,50
+479992,Brand College,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,32,50,100
+482468,DeVry University-Georgia,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,826,50,67
+482574,DeVry University-Ohio,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,314,50,100
+489344,Chamberlain University-North Carolina,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,367,50,75
+491710,Yeshiva Gedolah of Cliffwood,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,74,50,73
+155335,Newman University,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,4168,51,24
+162210,Washington Adventist University,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,807,51,9
+178420,University of Missouri-St Louis,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,18033,51,22
+188641,Alfred University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2222,51,10
+190600,CUNY John Jay College of Criminal Justice,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,17296,51,20
+192040,Jewish Theological Seminary of America,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,326,51,60
+217776,Southern Wesleyan University,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1335,51,34
+497374,Academia Medical Institute,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,147,51,56
+122931,Santa Clara University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,9960,52,19
+129242,Fairfield University,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,6611,52,19
+140720,Paine College,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,342,52,5
+150066,Anderson University,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,1675,52,12
+153320,Faith Baptist Bible College and Theological Seminary,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,616,52,71
+196413,Syracuse University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,37473,52,19
+204617,Ohio Dominican University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,1567,52,18
+204909,Ohio Wesleyan University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,1499,52,16
+206835,Oklahoma Wesleyan University,Oklahoma,"Southwest (AZ, NM, OK, TX)",2022,1164,52,48
+221519,The University of the South,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1892,52,17
+225575,Huston-Tillotson University,Texas,"Southwest (AZ, NM, OK, TX)",2022,1614,52,19
+228246,Southern Methodist University,Texas,"Southwest (AZ, NM, OK, TX)",2022,13332,52,19
+383525,Erie 2 Chautauqua Cattaraugus BOCES-Practical Nursing Program,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,44,52,66
+384254,Beacon College,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,540,52,47
+481410,Yeshiva Gedolah Kesser Torah,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,89,52,83
+489937,Carolina University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1095,52,37
+122436,University of San Diego,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,9982,53,16
+131520,Howard University,District of Columbia,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,13861,53,24
+155070,Barclay College,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,216,53,20
+155973,Tabor College,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,796,53,19
+157863,Union College,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1186,53,33
+190451,Pomeroy College of Nursing at Crouse Hospital,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,276,53,67
+191126,Fashion Institute of Technology,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,9071,53,54
+204796,Ohio State University-Main Campus,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,65551,53,23
+209287,Multnomah University,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,668,53,36
+214148,Moore College of Art and Design,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,381,53,14
+217402,Providence College,Rhode Island,"New England (CT, ME, MA, NH, RI, VT)",2022,5035,53,20
+217998,Erskine College,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1204,53,32
+221971,Union University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3183,53,22
+225201,Hallmark University,Texas,"Southwest (AZ, NM, OK, TX)",2022,1212,53,88
+243780,Purdue University-Main Campus,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,56210,53,26
+418445,Jefferson County Dubois Area Vocational Technical Practical Nursing Program,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,26,53,100
+154493,Upper Iowa University,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,5739,54,28
+160621,Southern University and A & M College,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,8292,54,29
+164748,Berklee College of Music,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,9708,54,41
+171137,University of Michigan-Dearborn,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,9455,54,15
+176479,William Carey University,Mississippi,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,7196,54,64
+191241,Fordham University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,18639,54,10
+203580,Lake Erie College,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,1103,54,38
+204200,Mount St. Joseph University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,2322,54,26
+204635,Ohio Northern University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,3062,54,18
+221351,Rhodes College,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2131,54,17
+222983,Austin College,Texas,"Southwest (AZ, NM, OK, TX)",2022,1208,54,12
+228468,Southwestern Adventist University,Texas,"Southwest (AZ, NM, OK, TX)",2022,912,54,17
+245652,St. John's College,New Mexico,"Southwest (AZ, NM, OK, TX)",2022,547,54,37
+110529,California State Polytechnic University-Pomona,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,29442,55,13
+129020,University of Connecticut,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,29512,55,18
+130934,Delaware State University,Delaware,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,6462,55,37
+138275,Warner University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,958,55,32
+148405,Rockford University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,1440,55,11
+179894,Webster University,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,8527,55,21
+190549,CUNY Brooklyn College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,17226,55,11
+190637,CUNY Lehman College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,16660,55,12
+192712,Manhattan School of Music,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1126,55,27
+201177,Aultman College of Nursing and Health Sciences,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,318,55,65
+214777,Pennsylvania State University-Main Campus,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,52693,55,19
+418524,Venango County Area Vocational Technical School,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,48,55,61
+446233,Ecclesia College,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,186,55,43
+138947,Clark Atlanta University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4324,56,13
+139311,Clayton State University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,7169,56,46
+152099,Oakland City University,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,936,56,26
+161022,Maine College of Health Professions,Maine,"New England (CT, ME, MA, NH, RI, VT)",2022,299,56,100
+174844,St Olaf College,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,3120,56,28
+180832,Clarkson College,Nebraska,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1383,56,100
+187912,New Mexico Military Institute,New Mexico,"Southwest (AZ, NM, OK, TX)",2022,515,56,78
+199102,North Carolina A & T State University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,14933,56,21
+205054,Professional Skills Institute,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,787,56,64
+206589,The College of Wooster,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,2061,56,14
+207306,Northwestern Oklahoma State University,Oklahoma,"Southwest (AZ, NM, OK, TX)",2022,2179,56,40
+207722,University of Science and Arts of Oklahoma,Oklahoma,"Southwest (AZ, NM, OK, TX)",2022,876,56,36
+212674,Gettysburg College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3174,56,20
+217961,Converse University,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2391,56,14
+228875,Texas Christian University,Texas,"Southwest (AZ, NM, OK, TX)",2022,12870,56,27
+230852,Champlain College,Vermont,"New England (CT, ME, MA, NH, RI, VT)",2022,4781,56,15
+441858,Eastern Virginia Career College,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,268,56,100
+482936,Florida Polytechnic University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1661,56,29
+486196,Beth Medrash Meor Yitzchok,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,246,56,100
+491622,Yeshiva Chemdas Hatorah,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,88,56,100
+100937,Birmingham-Southern College,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1000,57,14
+107141,John Brown University,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2726,57,36
+110097,Biola University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,5857,57,30
+134079,Florida Southern College,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3481,57,12
+145336,Governors State University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,5328,57,29
+168421,Worcester Polytechnic Institute,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,7907,57,20
+174075,University of Minnesota-Crookston,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2769,57,19
+174127,Minneapolis College of Art and Design,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,885,57,42
+174358,Minnesota State University Moorhead,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,6072,57,29
+181853,York University,Nebraska,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,794,57,39
+193654,The New School,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,11567,57,26
+226587,McMurry University,Texas,"Southwest (AZ, NM, OK, TX)",2022,1585,57,21
+227429,Paul Quinn College,Texas,"Southwest (AZ, NM, OK, TX)",2022,1238,57,9
+233921,Virginia Polytechnic Institute and State University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,40514,57,28
+368452,Nossi College of Art and Design,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,312,57,49
+399911,Soka University of America,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,462,57,46
+432524,Delaware College of Art and Design,Delaware,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,131,57,29
+126775,Colorado School of Mines,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,7872,58,24
+134945,Jacksonville University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,5643,58,13
+146339,Judson University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,1122,58,26
+147828,Olivet Nazarene University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,3912,58,19
+148584,University of St Francis,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,5478,58,17
+154590,William Penn University,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1667,58,43
+159382,Louisiana State University-Alexandria,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,5032,58,25
+161299,Maine Maritime Academy,Maine,"New England (CT, ME, MA, NH, RI, VT)",2022,996,58,33
+164739,Bentley University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,5454,58,20
+166054,Hellenic College-Holy Cross Greek Orthodox School of Theology,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,146,58,18
+173142,Bethany Lutheran College,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,932,58,45
+177746,Kansas City Art Institute,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,769,58,32
+191205,Five Towns College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,669,58,45
+193061,Mesivta of Eastern Parkway-Yeshiva Zichron Meilech,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,48,58,100
+196176,State University of New York at New Paltz,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,8012,58,15
+212832,Gwynedd Mercy University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2433,58,24
+426314,Embry-Riddle Aeronautical University-Worldwide,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,17233,58,54
+444413,Beis Medrash Heichal Dovid,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,228,58,100
+449861,Milwaukee Career College,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,214,58,74
+486424,Saint Michael College of Allied Health,District of Columbia,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,159,58,58
+490221,MAK Beauty Institute,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,59,58,100
+107877,Williams Baptist University,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,621,59,26
+131450,Gallaudet University,District of Columbia,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1497,59,72
+140234,LaGrange College,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,812,59,26
+178183,Midwest Institute,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,288,59,52
+188915,Arnot Ogden Medical Center,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,40,59,100
+190691,CUNY York College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,8013,59,8
+197744,Yeshivath Zichron Moshe,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,258,59,100
+199582,Saint Augustine's University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1251,59,12
+210775,Alvernia University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3117,59,15
+218539,Presbyterian College,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1330,59,14
+224323,University of Dallas,Texas,"Southwest (AZ, NM, OK, TX)",2022,2674,59,16
+451398,Yeshiva Toras Chaim,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,226,59,100
+101709,University of Montevallo,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2935,60,14
+106342,Lyon College,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,511,60,18
+107080,Hendrix College,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1162,60,22
+107558,University of the Ozarks,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,873,60,18
+123952,Southern California Institute of Architecture,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,626,60,9
+132471,Barry University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,8038,60,8
+137962,Trinity College of Florida,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,228,60,65
+140553,Morehouse College,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2897,60,22
+146481,Lake Forest College,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,1898,60,16
+160959,College of the Atlantic,Maine,"New England (CT, ME, MA, NH, RI, VT)",2022,407,60,33
+188669,The Ailey School,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,67,60,10
+193308,Monroe College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,11958,60,51
+196149,State University of New York at Cortland,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,7633,60,19
+203757,Lourdes University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,1382,60,26
+218973,Wofford College,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1863,60,19
+231174,University of Vermont,Vermont,"New England (CT, ME, MA, NH, RI, VT)",2022,16101,60,17
+490319,Yeshiva Bais Aharon,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,16,60,67
+106245,University of Arkansas at Little Rock,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,10122,61,25
+126076,Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,223,61,92
+137564,Southeastern University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,12138,61,85
+143084,Augustana College,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,2476,61,14
+145725,Illinois Institute of Technology,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,8193,61,14
+147660,North Central College,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,2963,61,16
+152673,Wabash College,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,840,61,22
+155937,Sterling College,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,805,61,13
+178369,Missouri Valley College,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1748,61,34
+179964,William Woods University,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1986,61,23
+198808,Lees-McRae College,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,899,61,20
+199643,Shaw University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1176,61,13
+220464,John A Gupton College,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,252,61,100
+220516,King University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1816,61,29
+221731,Tennessee Wesleyan University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1200,61,34
+229160,Texas Wesleyan University,Texas,"Southwest (AZ, NM, OK, TX)",2022,2979,61,16
+248633,Franklin County Career and Technology Center,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,73,61,79
+118693,Menlo College,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,875,62,10
+140872,Reinhardt University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1251,62,40
+148131,Quincy University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,1520,62,28
+159647,Louisiana Tech University,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,12303,62,37
+165644,Eastern Nazarene College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,650,62,17
+193070,Mesivtha Tifereth Jerusalem of America,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,81,62,100
+225548,Howard Payne University,Texas,"Southwest (AZ, NM, OK, TX)",2022,942,62,28
+375966,Eastern Center for Arts and Technology,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,171,62,100
+101648,Marion Military Institute,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,338,63,50
+102632,University of Alaska Southeast,Alaska,"Far West (AK, CA, HI, NV, OR, WA)",2022,3383,63,57
+125897,Woodbury University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1041,63,13
+130989,Goldey-Beacom College,Delaware,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1275,63,26
+139630,Emmanuel University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,916,63,39
+147776,Northeastern Illinois University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,7373,63,18
+155089,Friends University,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,3541,63,26
+156408,Centre College,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1372,63,23
+176789,Calvary University,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,339,63,89
+177214,Drury University,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1731,63,27
+192819,Marist College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,7333,63,19
+195216,St Lawrence University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2263,63,16
+197708,Yeshiva University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,6841,63,62
+199458,Mid-Atlantic Christian University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,163,63,21
+202514,Defiance College,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,592,63,9
+204176,Mount Carmel College of Nursing,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,956,63,58
+220473,Johnson University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1142,63,58
+228723,Texas A & M University-College Station,Texas,"Southwest (AZ, NM, OK, TX)",2022,78501,63,46
+231554,Bluefield University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1171,63,24
+239318,Milwaukee School of Engineering,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,2808,63,19
+418481,Mifflin County Academy of Science and Technology,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,48,63,79
+444510,CES College,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,149,63,59
+488420,Indiana Wellness College,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,282,63,48
+493716,Yeshiva Gedola Tiferes Yaakov Yitzchok,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,72,63,80
+106713,Central Baptist College,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,632,64,60
+107983,Southern Arkansas University Main Campus,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,6037,64,38
+133881,Florida Institute of Technology,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,10139,64,9
+133951,Florida International University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,69591,64,40
+143288,Blackburn College,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,440,64,21
+156620,Eastern Kentucky University,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,16842,64,27
+158477,Centenary College of Louisiana,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,598,64,24
+162061,Capitol Technology University,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1168,64,28
+166629,University of Massachusetts-Amherst,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,37599,64,19
+173957,Mayo Clinic College of Medicine and Science,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1573,64,86
+179548,Stephens College,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,691,64,18
+187134,The College of New Jersey,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,8754,64,24
+196583,Torah Temimah Talmudical Seminary,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,77,64,67
+197647,Yeshiva Derech Chaim,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,139,64,71
+198862,Livingstone College,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,930,64,8
+202903,Gods Bible School and College,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,533,64,67
+218663,University of South Carolina-Columbia,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,38804,64,24
+239309,Milwaukee Institute of Art & Design,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,947,64,33
+365213,Autry Technology Center,Oklahoma,"Southwest (AZ, NM, OK, TX)",2022,701,64,74
+365383,Wilkes-Barre Area Career and Technical Center Practical Nursing,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,129,64,56
+483124,Arizona State University Digital Immersion,Arizona,"Southwest (AZ, NM, OK, TX)",2022,91028,64,55
+493594,Yeshiva of Ocean,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,47,64,88
+102094,University of South Alabama,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,15488,65,20
+102270,Stillman College,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,983,65,13
+102553,University of Alaska Anchorage,Alaska,"Far West (AK, CA, HI, NV, OR, WA)",2022,17352,65,41
+112394,University of Silicon Valley,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,525,65,56
+133492,Eckerd College,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2038,65,15
+133553,Embry-Riddle Aeronautical University-Daytona Beach,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,11124,65,29
+136774,Ringling College of Art and Design,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1722,65,26
+137476,St. Thomas University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,7583,65,11
+151290,Indiana Institute of Technology,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,3186,65,15
+168591,Alma College,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,1323,65,15
+169576,Detroit Business Institute-Downriver,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,159,65,47
+170806,Madonna University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,2355,65,19
+172264,Siena Heights University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,2233,65,28
+176044,Mississippi Valley State University,Mississippi,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2427,65,14
+181330,Midland University,Nebraska,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1911,65,33
+190114,Metropolitan College of New York,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,921,65,42
+194116,New York School of Interior Design,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,822,65,25
+194824,Rensselaer Polytechnic Institute,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,7628,65,18
+199698,St. Andrews University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,893,65,16
+201654,Cedarville University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,5519,65,32
+214892,Penn Commercial Business/Technical School,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,461,65,81
+237181,Bethany College,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,639,65,11
+237950,West Virginia University Institute of Technology,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1691,65,56
+260813,Platt College-Aurora,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,303,65,91
+484473,University of Florida-Online,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,6653,65,91
+490230,Reformed University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,306,65,46
+101435,Huntingdon College,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,847,66,15
+122728,William Jessup University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,2150,66,34
+130253,Sacred Heart University,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,12067,66,20
+139144,Berry College,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2466,66,17
+150400,DePauw University,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,1782,66,14
+151777,Manchester University,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,1303,66,13
+154721,Bethany College,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,785,66,11
+155511,McPherson College,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,858,66,26
+171146,University of Michigan-Flint,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,7182,66,13
+173300,Concordia College at Moorhead,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1975,66,18
+179043,Rockhurst University,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,3974,66,14
+183910,Caldwell University,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2160,66,10
+185828,New Jersey Institute of Technology,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,13931,66,18
+186380,Rutgers University-New Brunswick,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,56943,66,28
+188526,Albany College of Pharmacy and Health Sciences,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1010,66,8
+211556,Chatham University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2658,66,13
+214175,Muhlenberg College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2087,66,15
+214528,Orleans Technical College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,487,66,69
+219000,Augustana University,South Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2590,66,27
+219949,Cumberland University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2894,66,44
+221661,Southern Adventist University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4126,66,38
+222178,Abilene Christian University,Texas,"Southwest (AZ, NM, OK, TX)",2022,5764,66,12
+225511,University of Houston,Texas,"Southwest (AZ, NM, OK, TX)",2022,52007,66,28
+238333,Beloit College,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,1082,66,10
+443410,DigiPen Institute of Technology,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,1505,66,31
+455196,Jersey College,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,5260,66,74
+488785,University of Saint Katherine,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,273,66,56
+108861,Berkeley School of Theology,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,121,67,100
+110565,California State University-Fullerton,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,45255,67,16
+138558,Abraham Baldwin Agricultural College,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4234,67,53
+138600,Agnes Scott College,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1253,67,22
+139940,Georgia State University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,42129,67,31
+141325,Wesleyan College,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1095,67,14
+153269,Drake University,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,5226,67,13
+155520,MidAmerica Nazarene University,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1781,67,32
+168546,Albion College,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,1523,67,9
+174862,Crown College,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1872,67,24
+177542,Hannibal-LaGrange University,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,598,67,46
+181543,Summit Christian College,Nebraska,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,31,67,100
+186900,Talmudical Academy-New Jersey,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,92,67,100
+190567,CUNY City College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,16985,67,12
+190752,Yeshiva of Far Rockaway Derech Ayson Rabbinical Seminary,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,55,67,100
+192800,Marion S Whelan School of Nursing of Geneva General Hospital,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,14,67,100
+195003,Rochester Institute of Technology,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,19736,67,20
+198215,Catawba College,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1338,67,14
+205957,Franciscan University of Steubenville,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,4424,67,41
+209409,Bushnell University,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,836,67,25
+214157,Moravian University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2967,67,19
+218070,Furman University,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2523,67,13
+218229,Lander University,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4659,67,27
+229115,Texas Tech University,Texas,"Southwest (AZ, NM, OK, TX)",2022,43357,67,29
+230038,Brigham Young University,Utah,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,41238,67,79
+461759,Simmons College of Kentucky,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,279,67,32
+486901,Milligan University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1244,67,31
+490133,Westcliff University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,7229,67,88
+493479,Medical Career College of Northern California,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,28,67,100
+100654,Alabama A & M University,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,6627,68,28
+101912,Oakwood University,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1650,68,38
+104586,Embry-Riddle Aeronautical University-Prescott,Arizona,"Southwest (AZ, NM, OK, TX)",2022,3341,68,31
+135364,Luther Rice College & Seminary,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,853,68,76
+141185,Toccoa Falls College,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2666,68,33
+144892,Eastern Illinois University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,10889,68,11
+147013,McKendree University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,2158,68,26
+147679,North Park University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,3109,68,15
+169327,Cleary University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,1425,68,19
+175980,Millsaps College,Mississippi,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,698,68,13
+176628,Avila University,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1574,68,10
+177339,Evangel University,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2278,68,35
+180878,Bryan College of Health Sciences,Nebraska,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,931,68,58
+191630,Hobart William Smith Colleges,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1635,68,13
+196060,University at Albany,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,18906,68,15
+196088,University at Buffalo,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,35749,68,20
+196121,SUNY Brockport,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,7616,68,19
+196653,Trocaire College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1408,68,25
+199032,Montreat College,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1133,68,21
+199209,North Carolina Wesleyan University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1726,68,15
+217721,Benedict College,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2176,68,9
+219198,Mount Marty University,South Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1717,68,24
+221759,The University of Tennessee-Knoxville,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,36950,68,28
+224527,East Texas Baptist University,Texas,"Southwest (AZ, NM, OK, TX)",2022,1932,68,40
+237312,University of Charleston,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4303,68,25
+239512,Northland College,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,536,68,14
+377546,Northwest College of Art & Design,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,141,68,52
+460349,Johnson & Wales University-Online,Rhode Island,"New England (CT, ME, MA, NH, RI, VT)",2022,3608,68,65
+475732,Chamberlain University-Georgia,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2095,68,85
+486840,Kennesaw State University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,49914,68,49
+101587,University of West Alabama,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,8933,69,14
+106412,University of Arkansas at Pine Bluff,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2580,69,20
+110671,University of California-Riverside,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,28886,69,15
+112075,Concordia University-Irvine,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,5023,69,14
+150136,Ball State University,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,22784,69,22
+157076,Kentucky Wesleyan College,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,897,69,22
+166018,Hampshire College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,548,69,16
+168528,Adrian College,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,1892,69,22
+173328,Concordia University-Saint Paul,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,7449,69,17
+178402,University of Missouri-Kansas City,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,17882,69,32
+190664,CUNY Queens College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,20603,69,15
+190707,CVPH Medical Center School of Radiologic Technology,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,18,69,91
+191649,Hofstra University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,11112,69,10
+197197,Wagner College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2160,69,22
+199218,University of North Carolina Wilmington,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,20742,69,20
+199306,Pfeiffer University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1169,69,18
+207971,University of Tulsa,Oklahoma,"Southwest (AZ, NM, OK, TX)",2022,3956,69,8
+209056,Lewis & Clark College,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,3879,69,14
+217165,Bryant University,Rhode Island,"New England (CT, ME, MA, NH, RI, VT)",2022,3861,69,16
+223472,Vet Tech Institute of Houston,Texas,"Southwest (AZ, NM, OK, TX)",2022,360,69,44
+225414,University of Houston-Clear Lake,Texas,"Southwest (AZ, NM, OK, TX)",2022,10463,69,26
+239390,Mount Mary University,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,1525,69,17
+449506,SABER College,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,295,69,100
+488563,California College of Music,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,24,69,100
+105899,Arizona Christian University,Arizona,"Southwest (AZ, NM, OK, TX)",2022,1172,70,33
+106458,Arkansas State University,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,18471,70,32
+133979,Florida Memorial University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1375,70,5
+144740,DePaul University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,24535,70,13
+145239,Fox College,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,450,70,34
+155414,Kansas Wesleyan University,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,939,70,25
+155900,Southwestern College,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1651,70,23
+159939,University of New Orleans,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,8489,70,20
+159993,University of Louisiana at Monroe,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,9481,70,34
+163578,Notre Dame of Maryland University,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2781,70,5
+169363,Concordia University Ann Arbor,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,1363,70,16
+186201,Ramapo College of New Jersey,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,6183,70,17
+196103,SUNY College of Environmental Science and Forestry,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2775,70,21
+196246,SUNY College at Plattsburgh,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,5245,70,17
+202046,Cleveland Institute of Art,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,588,70,32
+206941,University of Central Oklahoma,Oklahoma,"Southwest (AZ, NM, OK, TX)",2022,14355,70,53
+207041,East Central University,Oklahoma,"Southwest (AZ, NM, OK, TX)",2022,4002,70,60
+207458,Oklahoma City University,Oklahoma,"Southwest (AZ, NM, OK, TX)",2022,2898,70,30
+210669,Allegheny College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1436,70,10
+213011,Immaculata University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3154,70,14
+217536,Salve Regina University,Rhode Island,"New England (CT, ME, MA, NH, RI, VT)",2022,3132,70,15
+218964,Winthrop University,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,5559,70,20
+220710,Maryville College,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1167,70,17
+223117,Baptist Missionary Association Theological Seminary,Texas,"Southwest (AZ, NM, OK, TX)",2022,143,70,100
+229780,Wayland Baptist University,Texas,"Southwest (AZ, NM, OK, TX)",2022,3823,70,29
+230807,Westminster University,Utah,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,1499,70,12
+231411,Advanced Technology Institute,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,637,70,71
+235316,Gonzaga University,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,8130,70,18
+238616,Concordia University-Wisconsin,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,6376,70,17
+385619,Everglades University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3072,70,51
+418588,Northern Tier Career Center,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,56,70,95
+482680,University of North Georgia,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,21038,70,47
+107071,Henderson State University,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2963,71,25
+109651,Art Center College of Design,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,2965,71,32
+122612,University of San Francisco,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,11147,71,9
+136172,University of North Florida,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,19673,71,23
+140696,Oglethorpe University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1540,71,21
+145497,Hebrew Theological College,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,199,71,60
+147703,Northern Illinois University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,17541,71,13
+149505,Trinity Christian College,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,1022,71,26
+154004,Morningside University,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2929,71,15
+159717,McNeese State University,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,6921,71,42
+170967,Rochester University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,1318,71,35
+171456,Northern Michigan University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,7760,71,32
+173920,Minnesota State University-Mankato,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,18038,71,29
+176965,University of Central Missouri,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,16310,71,29
+178244,Missouri Baptist University,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,6082,71,42
+181127,Hastings College,Nebraska,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,995,71,17
+196592,Touro University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,14026,71,48
+199412,Queens University of Charlotte,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2194,71,13
+200226,Mayville State University,North Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1458,71,52
+201821,The Christ College of Nursing and Health Sciences,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,1002,71,38
+203085,Heidelberg University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,1206,71,19
+207388,Oklahoma State University-Main Campus,Oklahoma,"Southwest (AZ, NM, OK, TX)",2022,27951,71,34
+218681,University of South Carolina-Salkehatchie,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1040,71,38
+219976,Lipscomb University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,5690,71,27
+220181,Fisk University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1096,71,6
+221892,Trevecca Nazarene University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4216,71,32
+234085,Virginia Military Institute,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1521,71,42
+235024,Cornish College of the Arts,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,458,71,20
+433174,Carolinas College of Health Sciences,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,550,71,58
+443058,Family of Faith Christian University,Oklahoma,"Southwest (AZ, NM, OK, TX)",2022,375,71,80
+449658,Bais Medrash Toras Chesed,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,120,71,60
+466921,Chamberlain University-Missouri,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,491,71,80
+107512,Ouachita Baptist University,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1898,72,30
+133809,Florida College,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,646,72,84
+151467,International Business College-Indianapolis,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,289,72,21
+156745,Georgetown College,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1678,72,20
+163532,Ner Israel Rabbinical College,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,480,72,77
+173160,Bethel University,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,4541,72,28
+186618,Saint Elizabeth University,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1220,72,12
+192864,Marymount Manhattan College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1763,72,8
+193609,Neighborhood Playhouse School of the Theater,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,64,72,31
+200059,Dickinson State University,North Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1792,72,46
+201104,Ashland University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,5286,72,16
+201548,Capital University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,3890,72,16
+210304,Warner Pacific University,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,395,72,10
+218690,University of South Carolina-Sumter,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1890,72,52
+232308,Hollins University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,992,72,9
+238458,Carroll University,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,3527,72,20
+239017,Lawrence University,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,1530,72,17
+239080,Marian University,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,1804,72,25
+240107,Viterbo University,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,2917,72,23
+455257,Yeshiva of Machzikai Hadas,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,431,72,100
+456959,University of Minnesota-Rochester,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,656,72,22
+487861,Felbry College,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,354,72,82
+102234,Spring Hill College,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1215,73,15
+111948,Chapman University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,10655,73,21
+139764,Georgia Southwestern State University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3941,73,34
+141574,University of Hawaii at Manoa,Hawaii,"Far West (AK, CA, HI, NV, OR, WA)",2022,21615,73,22
+146427,Knox College,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,1076,73,11
+150455,Earlham College,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,718,73,17
+152318,Rose-Hulman Institute of Technology,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,2279,73,16
+165699,Endicott College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,4793,73,22
+166391,Lasell University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,1933,73,15
+167996,Stonehill College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,2706,73,14
+177117,Cottey College,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,314,73,19
+180461,Montana State University,Montana,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,18820,73,18
+184348,Drew University,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2405,73,11
+188429,Adelphi University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,8156,73,9
+195720,St. John Fisher University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4012,73,21
+196042,Farmingdale State College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,18644,73,34
+196185,SUNY Oneonta,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,5914,73,16
+198950,Meredith College,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1752,73,26
+199999,Winston-Salem State University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,5512,73,15
+206437,Walsh University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,2619,73,20
+207500,University of Oklahoma-Norman Campus,Oklahoma,"Southwest (AZ, NM, OK, TX)",2022,31908,73,30
+215743,Saint Francis University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3269,73,21
+215798,Saint Vincent College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1654,73,22
+216773,Western Pennsylvania Hospital School of Nursing,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,122,73,100
+220613,Lee University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4569,73,35
+220978,Middle Tennessee State University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,23369,73,30
+238078,Wheeling University,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,888,73,13
+240374,University of Wisconsin-Parkside,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,4866,73,21
+384421,Rabbi Jacob Joseph School,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,104,73,100
+445708,Johnson & Wales University-Charlotte,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1237,73,11
+490805,Purdue University Northwest,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,10438,73,31
+117140,University of La Verne,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,7143,74,15
+129215,Eastern Connecticut State University,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,4457,74,18
+130943,University of Delaware,Delaware,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,26135,74,19
+142285,University of Idaho,Idaho,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,14025,74,20
+146612,Lewis University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,7903,74,17
+150756,Hanover College,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,1138,74,12
+153366,Graceland University-Lamoni,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1415,74,13
+154235,Saint Ambrose University,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2901,74,17
+154518,Waldorf University,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,4092,74,22
+161509,Maine College of Art & Design,Maine,"New England (CT, ME, MA, NH, RI, VT)",2022,453,74,20
+165802,Fisher College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,2478,74,8
+169080,Calvin University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,3626,74,20
+173647,Gustavus Adolphus College,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2143,74,17
+175272,Winona State University,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,7029,74,30
+177968,Lindenwood University,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,10113,74,28
+186399,Rutgers University-Newark,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,12906,74,11
+187967,New Mexico Institute of Mining and Technology,New Mexico,"Southwest (AZ, NM, OK, TX)",2022,2014,74,33
+195128,Russell Sage College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2433,74,19
+198507,Elizabeth City State University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2439,74,12
+198516,Elon University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,7475,74,13
+198899,Mars Hill University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1100,74,22
+199111,University of North Carolina Asheville,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3271,74,16
+202480,University of Dayton,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,12470,74,14
+207847,Southeastern Oklahoma State University,Oklahoma,"Southwest (AZ, NM, OK, TX)",2022,7152,74,60
+216038,Slippery Rock University of Pennsylvania,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,9547,74,35
+217305,New England Institute of Technology,Rhode Island,"New England (CT, ME, MA, NH, RI, VT)",2022,2469,74,25
+237932,West Liberty University,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2503,74,34
+240329,University of Wisconsin-La Crosse,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,10988,74,43
+431266,Henrico County-Saint Marys Hospital School of Practical Nursing,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,118,74,75
+433660,Florida Gulf Coast University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,18327,74,24
+114813,Fresno Pacific University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,3956,75,25
+119270,Musicians Institute,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1241,75,45
+123651,Vanguard University of Southern California,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,2612,75,26
+125763,Whittier College,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1252,75,11
+126562,University of Colorado Denver/Anschutz Medical Campus,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,29702,75,15
+130314,University of Saint Joseph,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,2271,75,15
+140447,Mercer University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,10309,75,16
+143358,Bradley University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,5990,75,12
+147244,Millikin University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,2045,75,17
+149772,Western Illinois University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,8853,75,16
+152530,Taylor University,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,2561,75,33
+153834,Luther College,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1637,75,24
+154013,Mount Mercy University,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1785,75,19
+159568,Louisiana Christian University,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1210,75,41
+164216,Washington College,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,992,75,12
+166850,Merrimack College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,6650,75,12
+172644,Wayne State University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,27127,75,24
+174066,University of Minnesota-Twin Cities,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,59150,75,24
+176080,Mississippi State University,Mississippi,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,25193,75,24
+179946,Westminster College,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,639,75,10
+180595,Rocky Mountain College,Montana,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,1183,75,24
+186584,Seton Hall University,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,12550,75,8
+191968,Ithaca College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,5472,75,14
+196167,SUNY College at Geneseo,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4534,75,13
+196219,SUNY at Purchase College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3526,75,16
+198561,Gardner-Webb University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4009,75,9
+199069,University of Mount Olive,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2680,75,20
+202912,Good Samaritan College of Nursing and Health Science,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,502,75,100
+213668,Lycoming College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1094,75,13
+215390,Pittsburgh Institute of Mortuary Science Inc,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,417,75,100
+215682,Rosedale Technical College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,628,75,61
+216047,Saint Charles Borromeo Seminary-Overbrook,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,206,75,100
+216807,Westminster College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1232,75,17
+218414,Newberry College,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1414,75,17
+219091,Dakota Wesleyan University,South Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,994,75,19
+237358,Davis & Elkins College,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,746,75,25
+239071,Maranatha Baptist University,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,1436,75,70
+262129,New College of Florida,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,729,75,14
+488314,Beth Medrash of Asbury Park,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,132,75,87
+110370,California College of the Arts,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1649,76,8
+119173,Mount Saint Mary's University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,2919,76,21
+127918,Regis University,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,5878,76,10
+136215,Nova Southeastern University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,23519,76,16
+144962,Elmhurst University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,4230,76,14
+150534,University of Evansville,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,2442,76,11
+150774,Holy Cross College,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,467,76,28
+151263,University of Indianapolis,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,5882,76,11
+159391,Louisiana State University and Agricultural & Mechanical College,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,41527,76,25
+164632,Bay Path University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,3680,76,23
+165574,Dean College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,1345,76,9
+167783,Simmons University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,6488,76,13
+167899,Springfield College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,3050,76,20
+171881,Kuyper College,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,152,76,25
+172051,Saginaw Valley State University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,7838,76,19
+181002,Creighton University,Nebraska,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,9804,76,17
+181020,Doane University,Nebraska,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2399,76,16
+184773,Georgian Court University,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2363,76,13
+194091,New York Institute of Technology,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,7369,76,10
+197692,Yeshivath Shaar Hatorah,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,96,76,77
+198969,Methodist University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1966,76,18
+204185,University of Mount Union,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,2550,76,21
+213251,Juniata College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1358,76,15
+215691,Rosemont College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,935,76,11
+216694,Waynesburg University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1503,76,18
+217484,University of Rhode Island,Rhode Island,"New England (CT, ME, MA, NH, RI, VT)",2022,20653,76,18
+217819,College of Charleston,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,12560,76,13
+218441,North Greenville University,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2465,76,30
+218645,University of South Carolina Aiken,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4764,76,30
+218672,University of South Carolina-Lancaster,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2796,76,61
+219383,University of Sioux Falls,South Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1835,76,17
+227526,Prairie View A & M University,Texas,"Southwest (AZ, NM, OK, TX)",2022,10095,76,36
+231420,Averett University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1656,76,14
+233718,Sweet Briar College,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,474,76,17
+233897,University of Virginia's College at Wise,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2807,76,40
+369455,Worsham College of Mortuary Science,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,328,76,92
+493798,New York Seminary,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,115,76,69
+122755,San Jose State University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,39835,77,15
+128771,Central Connecticut State University,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,11122,77,22
+129774,Mitchell College,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,577,77,11
+141361,Young Harris College,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1744,77,18
+145691,Illinois College,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,1130,77,9
+153001,Buena Vista University,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2634,77,20
+163912,St. Mary's College of Maryland,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1657,77,18
+170639,Lake Superior State University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,1815,77,15
+173045,Augsburg University,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,3625,77,23
+174914,University of St Thomas,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,10012,77,22
+184782,Rowan University,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,22472,77,20
+186371,Rutgers University-Camden,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,6841,77,6
+191676,Houghton University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1008,77,24
+193292,Molloy College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,9200,77,15
+195544,St. Joseph's University-New York,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4986,77,17
+201195,Baldwin Wallace University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,3715,77,20
+207865,Southwestern Oklahoma State University,Oklahoma,"Southwest (AZ, NM, OK, TX)",2022,5825,77,38
+210739,DeSales University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3842,77,18
+212984,Holy Family University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3437,77,22
+213507,Lebanon Valley College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2276,77,18
+216278,Susquehanna University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2935,77,12
+240268,University of Wisconsin-Eau Claire,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,11072,77,27
+377218,School of Automotive Machinists & Technology,Texas,"Southwest (AZ, NM, OK, TX)",2022,157,77,38
+441636,American Institute of Alternative Medicine,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,579,77,28
+485698,American College of the Building Arts,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,141,77,100
+100706,University of Alabama in Huntsville,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,10515,78,27
+101480,Jacksonville State University,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,11071,78,20
+104717,Grand Canyon University,Arizona,"Southwest (AZ, NM, OK, TX)",2022,159769,78,37
+117751,The Master's University and Seminary,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,3396,78,49
+126784,Colorado School of Trades,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,195,78,86
+127060,University of Denver,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,16672,78,11
+150941,Huntington University,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,1575,78,32
+151388,Indiana University-East,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,5241,78,28
+152381,Saint Mary-of-the-Woods College,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,1394,78,26
+155627,Ottawa University-Ottawa,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1101,78,10
+159656,Loyola University New Orleans,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4975,78,14
+162760,Hood College,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2326,78,13
+173124,Bemidji State University,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,5061,78,22
+174251,University of Minnesota-Morris,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1146,78,13
+180106,Carroll College,Montana,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,1214,78,25
+182634,Colby-Sawyer College,New Hampshire,"New England (CT, ME, MA, NH, RI, VT)",2022,1112,78,14
+183822,Bloomfield College,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1226,78,8
+188030,New Mexico State University-Main Campus,New Mexico,"Southwest (AZ, NM, OK, TX)",2022,16277,78,19
+189705,Canisius University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2859,78,15
+190044,Clarkson University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4048,78,12
+192323,Le Moyne College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3581,78,11
+195234,The College of Saint Rose,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3474,78,13
+196431,Talmudical Seminary Oholei Torah,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,351,78,69
+197142,Villa Maria College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,522,78,26
+203775,Malone University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,1477,78,20
+207582,Oral Roberts University,Oklahoma,"Southwest (AZ, NM, OK, TX)",2022,5835,78,23
+211088,Arcadia University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3851,78,10
+215947,Seton Hill University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3820,78,18
+217873,Claflin University,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2097,78,7
+220631,Lincoln Memorial University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,6018,78,20
+221847,Tennessee Technological University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,10903,78,36
+232423,James Madison University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,24300,78,20
+379621,Madison Oneida BOCES-Practical Nursing Program,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,119,78,100
+405058,Yeshivas Novominsk,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,162,78,100
+449870,University of the West,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,186,78,28
+106397,University of Arkansas,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,33352,79,34
+127741,University of Northern Colorado,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,10992,79,15
+132879,Johnson University Florida,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,181,79,26
+143048,School of the Art Institute of Chicago,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,3736,79,14
+145600,University of Illinois Chicago,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,36794,79,23
+146719,Loyola University Chicago,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,19300,79,9
+149310,Taylor Business Institute,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,467,79,100
+153108,Central College,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1303,79,22
+153162,Cornell College,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1185,79,14
+156213,Asbury University,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1844,79,34
+164076,Towson University,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,22027,79,19
+166674,Massachusetts College of Art and Design,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,2204,79,20
+168281,Wheaton College (Massachusetts),Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,1739,79,15
+169248,Central Michigan University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,17041,79,13
+170532,Kalamazoo College,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,1376,79,13
+176318,Rust College,Mississippi,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,629,79,9
+178396,University of Missouri-Columbia,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,33993,79,31
+181464,University of Nebraska-Lincoln,Nebraska,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,25724,79,31
+198695,High Point University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,6478,79,15
+201441,Bowling Green State University-Main Campus,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,19989,79,21
+211352,Cabrini University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1980,79,11
+212656,Geneva College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1344,79,22
+213996,Messiah University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3569,79,30
+218724,Coastal Carolina University,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,11171,79,20
+218742,University of South Carolina-Upstate,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,5861,79,28
+219082,Dakota State University,South Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,4866,79,53
+222831,Angelo State University,Texas,"Southwest (AZ, NM, OK, TX)",2022,12151,79,37
+227216,University of North Texas,Texas,"Southwest (AZ, NM, OK, TX)",2022,52260,79,26
+233338,Richard Bland College,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2499,79,32
+406422,Central Susquehanna Intermediate Unit LPN Career,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,123,79,77
+417628,Kirksville Area Technical Center,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,20,79,87
+433040,Monty Tech,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,43,79,24
+440828,Oregon State University-Cascades Campus,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,1576,79,11
+454236,Chamberlain University-Ohio,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,729,79,91
+477233,Evangel University-James River Assembly of God Church,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,102,79,59
+481137,Shepherds College,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,86,79,80
+100751,The University of Alabama,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,42869,80,19
+105330,Northern Arizona University,Arizona,"Southwest (AZ, NM, OK, TX)",2022,31245,80,16
+110361,California Baptist University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,13556,80,21
+111966,Charles R Drew University of Medicine and Science,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1100,80,2
+128498,Albertus Magnus College,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,1609,80,14
+132657,Lynn University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4156,80,13
+137032,Saint Leo University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,14159,80,16
+139861,Georgia College & State University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,7397,80,39
+141334,University of West Georgia,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,14712,80,37
+151360,Indiana University-Northwest,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,5656,80,27
+154262,St Luke's College,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,242,80,67
+158802,Dillard University,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1286,80,8
+162654,Goucher College,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2694,80,11
+163295,Maryland Institute College of Art,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2334,80,9
+163462,Mount St. Mary's University,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2743,80,13
+165671,Emmanuel College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,2178,80,12
+170301,Hope College,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,3282,80,23
+171492,Northwood University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,2911,80,23
+190725,Daemen University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2957,80,16
+190956,Belanger School of Nursing,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,142,80,100
+193247,Mirrer Yeshiva Cent Institute,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,147,80,89
+195474,Siena College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4088,80,13
+196291,SUNY Maritime College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1635,80,26
+199139,University of North Carolina at Charlotte,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,33356,80,24
+199759,Southeastern Baptist Theological Seminary,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3754,80,69
+210492,Bryn Athyn College of the New Church,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,310,80,17
+212054,Drexel University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,25614,80,10
+215105,University of the Arts,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1478,80,21
+216339,Temple University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,35985,80,15
+218654,University of South Carolina Beaufort,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2531,80,24
+218706,University of South Carolina-Union,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1530,80,58
+219806,Carson-Newman University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3162,80,13
+220701,The University of Tennessee Southern,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1040,80,43
+233426,Roanoke College,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1874,80,12
+233541,Shenandoah University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,5698,80,26
+237561,Monongalia County Technical Education Center,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,62,80,69
+419031,United Technical Center,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,36,80,100
+462354,John Paul the Great Catholic University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,377,80,37
+482185,Academy of Interactive Entertainment,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,110,80,51
+492759,Chamberlain University-Louisiana,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,600,80,75
+126614,University of Colorado Boulder,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,44787,81,16
+133669,Florida Atlantic University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,36189,81,22
+133711,Flagler College,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2742,81,17
+141237,Truett McConnell University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3151,81,41
+151102,Purdue University Fort Wayne,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,10380,81,26
+161518,Saint Joseph's College of Maine,Maine,"New England (CT, ME, MA, NH, RI, VT)",2022,2059,81,17
+163268,University of Maryland-Baltimore County,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,15904,81,23
+166638,University of Massachusetts-Boston,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,18328,81,15
+169983,Kettering University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,2167,81,20
+173665,Hamline University,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,3177,81,15
+174233,University of Minnesota-Duluth,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,10319,81,26
+178411,Missouri University of Science and Technology,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,7637,81,22
+181446,Nebraska Wesleyan University,Nebraska,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,3983,81,19
+188678,American Academy of Dramatic Arts-New York,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,231,81,39
+195164,St Bonaventure University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3012,81,19
+197045,Utica University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4782,81,16
+198543,Fayetteville State University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,8367,81,24
+200217,University of Mary,North Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,4514,81,38
+206695,Youngstown State University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,12849,81,27
+210401,Willamette University,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,2079,81,16
+212197,Elizabethtown College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2382,81,19
+212601,Gannon University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,5358,81,12
+213303,Keystone College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1974,81,16
+213598,Lincoln University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1946,81,7
+213826,Marywood University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3201,81,21
+213987,Mercyhurst University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3434,81,19
+214759,Pennsylvania State University-Penn State Fayette- Eberly,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,468,81,14
+215114,Cairn University-Langhorne,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1724,81,53
+221953,Tusculum University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1379,81,13
+228769,The University of Texas at Arlington,Texas,"Southwest (AZ, NM, OK, TX)",2022,54487,81,27
+232706,Marymount University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4430,81,12
+234164,Virginia Union University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2201,81,11
+234173,Virginia Wesleyan University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1793,81,20
+239628,Ripon College,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,775,81,11
+461847,Keser Torah-Mayan Hatalmud,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,105,81,85
+101189,Faulkner University,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3456,82,17
+121309,Point Loma Nazarene University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,5054,82,27
+121691,University of Redlands,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,3880,82,17
+125727,Westmont College,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1359,82,17
+127556,Colorado Mesa University,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,10133,82,22
+128744,University of Bridgeport,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,5365,82,9
+140951,Savannah College of Art and Design,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,18369,82,30
+143118,Aurora University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,7008,82,28
+148654,University of Illinois Springfield,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,5417,82,8
+150163,Butler University,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,6088,82,11
+151351,Indiana University-Bloomington,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,61491,82,24
+155812,University of Saint Mary,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1543,82,16
+157289,University of Louisville,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,26254,82,23
+163338,University of Maryland Eastern Shore,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3229,82,11
+164270,McDaniel College,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3553,82,13
+164562,Assumption University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,2243,82,11
+168263,Westfield State University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,5233,82,15
+170037,Cornerstone University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,2066,82,18
+170675,Lawrence Technological University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,3447,82,21
+174020,Metropolitan State University,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,8508,82,26
+177986,Logan University,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2328,82,83
+183239,Saint Anselm College,New Hampshire,"New England (CT, ME, MA, NH, RI, VT)",2022,2014,82,18
+190655,CUNY New York City College of Technology,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,15997,82,17
+192703,Manhattan College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3790,82,9
+196006,SUNY College of Technology at Alfred,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3629,82,26
+196112,SUNY Polytechnic Institute,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3292,82,16
+203368,John Carroll University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,3187,82,16
+215442,Point Park University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4042,82,11
+216357,Thiel College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,993,82,15
+216524,Ursinus College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1562,82,14
+216542,University of Valley Forge,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,694,82,41
+218821,Spartanburg Methodist College,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1170,82,31
+225502,University of Houston-Victoria,Texas,"Southwest (AZ, NM, OK, TX)",2022,5137,82,13
+226383,Lubbock Christian University,Texas,"Southwest (AZ, NM, OK, TX)",2022,1770,82,32
+238476,Carthage College,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,2801,82,11
+240189,University of Wisconsin-Whitewater,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,13057,82,27
+441900,Nevada State University,Nevada,"Far West (AK, CA, HI, NV, OR, WA)",2022,7885,82,34
+479956,Pennsylvania State University-World Campus,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,18596,82,43
+486938,Chamberlain University-Nevada,Nevada,"Far West (AK, CA, HI, NV, OR, WA)",2022,792,82,78
+491057,Yeshiva Kollel Tifereth Elizer,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,424,82,100
+102049,Samford University,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,6043,83,27
+120403,Otis College of Art and Design,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1380,83,18
+129525,University of Hartford,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,6802,83,10
+130493,Southern Connecticut State University,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,10333,83,16
+151111,Indiana University-Indianapolis,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,29740,83,27
+156541,University of the Cumberlands,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,25381,83,33
+163046,Loyola University Maryland,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,5722,83,16
+169798,Eastern Michigan University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,16770,83,13
+185262,Kean University,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,15023,83,23
+194310,Pace University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,15814,83,10
+196024,SUNY College of Technology at Delhi,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2786,83,23
+196194,State University of New York at Oswego,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,7957,83,14
+196200,SUNY College at Potsdam,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2805,83,17
+197869,Appalachian State University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,22082,83,21
+198835,Lenoir-Rhyne University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2531,83,9
+200280,University of North Dakota,North Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,17671,83,32
+200572,Valley City State University,North Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2037,83,57
+203845,Marietta College,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,1299,83,16
+206048,Tiffin University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,4496,83,19
+209542,Oregon State University,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,41142,83,21
+210429,Western Oregon University,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,6547,83,21
+217235,Johnson & Wales University-Providence,Rhode Island,"New England (CT, ME, MA, NH, RI, VT)",2022,4935,83,14
+218061,Francis Marion University,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4628,83,21
+219347,South Dakota School of Mines and Technology,South Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2942,83,43
+221740,The University of Tennessee-Chattanooga,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,12225,83,33
+230995,Norwich University,Vermont,"New England (CT, ME, MA, NH, RI, VT)",2022,4800,83,18
+236328,University of Puget Sound,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,2121,83,9
+236939,Washington State University,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,30919,83,25
+248934,ECPI University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,16299,83,25
+369668,Central Pennsylvania Institute of Science and Technology,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,195,83,100
+446385,Los Angeles College of Music,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,260,83,20
+447953,SUM Bible College and Theological Seminary,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,787,83,87
+454245,Chamberlain University-Arizona,Arizona,"Southwest (AZ, NM, OK, TX)",2022,1082,83,90
+483018,Antioch College,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,146,83,18
+486512,Florida International Training Institute,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,756,83,59
+493707,Yeshiva Gedolah of Woodlake Village,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,102,83,100
+101693,University of Mobile,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1903,84,19
+130226,Quinnipiac University,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,9801,84,10
+130776,Western Connecticut State University,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,5102,84,15
+133526,Edward Waters University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1223,84,4
+139393,Covenant College,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,935,84,35
+141565,University of Hawaii at Hilo,Hawaii,"Far West (AK, CA, HI, NV, OR, WA)",2022,3421,84,18
+142115,Boise State University,Idaho,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,32626,84,22
+148627,Saint Xavier University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,4095,84,10
+152390,Saint Mary's College,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,1587,84,21
+157386,Morehead State University,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,9836,84,18
+157401,Murray State University,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,11531,84,16
+164173,Stevenson University,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4079,84,18
+173452,Martin Luther College,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1306,84,79
+183211,Rivier University,New Hampshire,"New England (CT, ME, MA, NH, RI, VT)",2022,3290,84,20
+184603,Fairleigh Dickinson University-Metropolitan Campus,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,9210,84,15
+186283,Rider University,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4816,84,10
+190716,D'Youville University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2906,84,11
+192271,LIM College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1801,84,25
+192749,Manhattanville College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2859,84,11
+193584,Nazareth University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2720,84,14
+195173,St. Francis College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4363,84,14
+196033,SUNY College of Agriculture and Technology at Cobleskill,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2881,84,24
+198598,Greensboro College,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,957,84,16
+198613,Guilford College,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1315,84,14
+199157,North Carolina Central University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,8456,84,15
+199865,Warren Wilson College,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,874,84,25
+200800,University of Akron Main Campus,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,15253,84,21
+204936,Otterbein University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,2900,84,17
+211468,Cedar Crest College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1644,84,17
+215929,University of Scranton,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,5139,84,13
+215974,UPMC Shadyside School of Nursing,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,614,84,88
+218733,South Carolina State University,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3019,84,16
+225399,Houston Christian University,Texas,"Southwest (AZ, NM, OK, TX)",2022,5455,84,8
+226091,Lamar University,Texas,"Southwest (AZ, NM, OK, TX)",2022,21648,84,28
+230603,Southern Utah University,Utah,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,21159,84,14
+232089,Ferrum College,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,989,84,19
+239716,Saint Norbert College,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,2323,84,15
+240471,University of Wisconsin-River Falls,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,5858,84,29
+247773,Yeshiva Gedolah of Greater Detroit,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,69,84,100
+250027,Laurel Business Institute,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,520,84,85
+428170,Southeastern College-West Palm Beach,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1449,84,56
+439455,MDT College of Health Sciences,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,613,84,77
+446640,Harrisburg University of Science and Technology,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,5749,84,14
+124292,Thomas Aquinas College,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,517,85,63
+126580,University of Colorado Colorado Springs,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,14894,85,13
+132602,Bethune-Cookman University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3099,85,9
+150677,Grace College and Theological Seminary,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,2274,85,13
+151379,Indiana University-Southeast,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,5547,85,37
+153126,Clarke University,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1019,85,9
+153278,University of Dubuque,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1907,85,24
+160074,Franciscan Missionaries of Our Lady University,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1446,85,46
+161554,University of Southern Maine,Maine,"New England (CT, ME, MA, NH, RI, VT)",2022,9718,85,16
+163453,Morgan State University,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,9912,85,15
+167260,Nichols College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,1651,85,16
+171599,The University of Olivet,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,958,85,22
+172699,Western Michigan University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,18774,85,15
+179159,Saint Louis University,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,17857,85,15
+182281,University of Nevada-Las Vegas,Nevada,"Far West (AK, CA, HI, NV, OR, WA)",2022,34955,85,38
+183071,University of New Hampshire at Manchester,New Hampshire,"New England (CT, ME, MA, NH, RI, VT)",2022,1693,85,18
+192509,Long Island Business Institute,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1330,85,49
+194392,Paul Smiths College of Arts and Science,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1218,85,24
+194958,Roberts Wesleyan University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2134,85,22
+195809,St. John's University-New York,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,21236,85,14
+196158,SUNY at Fredonia,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3826,85,18
+200004,Western Carolina University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,13205,85,13
+200846,University of Akron Wayne College,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,1529,85,56
+202134,Cleveland State University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,16999,85,17
+204194,Mount Vernon Nazarene University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,2452,85,32
+206349,Ursuline College,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,1122,85,21
+206622,Xavier University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,7011,85,9
+210331,Corban University,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,1530,85,26
+210571,Albright College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1777,85,8
+214272,Neumann University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2569,85,13
+220075,East Tennessee State University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,15271,85,25
+227845,Saint Edward's University,Texas,"Southwest (AZ, NM, OK, TX)",2022,3757,85,13
+227881,Sam Houston State University,Texas,"Southwest (AZ, NM, OK, TX)",2022,23907,85,25
+228042,Schreiner University,Texas,"Southwest (AZ, NM, OK, TX)",2022,1386,85,20
+228787,The University of Texas at Dallas,Texas,"Southwest (AZ, NM, OK, TX)",2022,34317,85,23
+231059,Saint Michael's College,Vermont,"New England (CT, ME, MA, NH, RI, VT)",2022,1945,85,12
+231712,Christopher Newport University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4703,85,18
+233295,Randolph-Macon College,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1536,85,20
+236595,Seattle University,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,7954,85,15
+240462,University of Wisconsin-Platteville,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,7362,85,31
+430971,Delaware County Technical School-Practical Nursing Program,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,138,85,100
+494685,Urshan College,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,536,85,93
+106546,Baptist Health College Little Rock,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,742,86,33
+131283,The Catholic University of America,District of Columbia,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,5428,86,15
+145813,Illinois State University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,22562,86,24
+151333,Indiana University-Kokomo,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,5281,86,31
+153658,University of Iowa,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,32773,86,23
+155681,Pittsburg State University,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,7099,86,37
+157447,Northern Kentucky University,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,19039,86,28
+165820,Fitchburg State University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,9922,86,18
+166452,Lesley University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,5133,86,9
+166513,University of Massachusetts-Lowell,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,20800,86,18
+174792,Saint Johns University,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1705,86,28
+178624,Northwest Missouri State University,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,10926,86,19
+179557,Southeast Missouri State University,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,11203,86,24
+181215,University of Nebraska at Kearney,Nebraska,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,7212,86,15
+181394,University of Nebraska at Omaha,Nebraska,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,17972,86,29
+182290,University of Nevada-Reno,Nevada,"Far West (AK, CA, HI, NV, OR, WA)",2022,23886,86,41
+186876,Stockton University,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,11694,86,19
+189273,Beth Hamedrash Shaarei Yosher Institute,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,75,86,100
+193016,Mercy University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,10251,86,14
+196130,SUNY Buffalo State University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,7473,86,12
+198871,Louisburg College,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,437,86,27
+199962,Wingate University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3681,86,5
+201885,University of Cincinnati-Main Campus,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,49138,86,25
+202763,The University of Findlay,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,5880,86,22
+204264,Muskingum University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,2918,86,18
+209551,University of Oregon,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,25054,86,17
+214166,Mount Aloysius College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3021,86,18
+214810,Pennsylvania State University-Penn State Schuylkill,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,716,86,22
+219356,South Dakota State University,South Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,13616,86,40
+224004,Concordia University Texas,Texas,"Southwest (AZ, NM, OK, TX)",2022,2298,86,11
+224554,Texas A & M University-Commerce,Texas,"Southwest (AZ, NM, OK, TX)",2022,14047,86,17
+225991,KD Conservatory College of Film and Dramatic Arts,Texas,"Southwest (AZ, NM, OK, TX)",2022,148,86,80
+228149,St. Mary's University,Texas,"Southwest (AZ, NM, OK, TX)",2022,3804,86,11
+228325,Southwestern Assemblies of God University,Texas,"Southwest (AZ, NM, OK, TX)",2022,2108,86,56
+230889,Goddard College,Vermont,"New England (CT, ME, MA, NH, RI, VT)",2022,409,86,67
+232681,University of Mary Washington,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4112,86,19
+240417,University of Wisconsin-Stout,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,8236,86,23
+240453,University of Wisconsin-Milwaukee,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,26699,86,23
+373711,Upper Cape Cod Regional Technical School,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,73,86,88
+386153,Seminar L'moros Bais Yaakov,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,428,86,66
+466930,Chamberlain University-Texas,Texas,"Southwest (AZ, NM, OK, TX)",2022,3202,86,83
+482149,Augusta University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,10199,86,24
+491613,Yeshiva Gedolah Tiferes Boruch,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,77,86,100
+497213,Great Northern University,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,43,86,100
+100663,University of Alabama at Birmingham,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,25357,87,26
+104179,University of Arizona,Arizona,"Southwest (AZ, NM, OK, TX)",2022,55911,87,20
+109785,Azusa Pacific University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,8426,87,17
+110413,California Lutheran University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,4185,87,13
+110486,California State University-Bakersfield,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,12062,87,9
+110592,California State University-Los Angeles,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,28820,87,13
+139199,Brenau University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3257,87,12
+140818,Piedmont University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2241,87,20
+141644,Hawaii Pacific University,Hawaii,"Far West (AK, CA, HI, NV, OR, WA)",2022,6046,87,5
+142328,Lewis-Clark State College,Idaho,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,4622,87,15
+144971,Eureka College,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,595,87,19
+151342,Indiana University-South Bend,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,7878,87,38
+151801,Indiana Wesleyan University-Marion,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,2708,87,17
+154101,Northwestern College,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2135,87,30
+160065,University of Holy Cross,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1434,87,6
+162007,Bowie State University,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,7205,87,25
+165866,Framingham State University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,6366,87,12
+168005,Suffolk University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,7239,87,15
+168227,Wentworth Institute of Technology,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,4770,87,17
+177038,Cleveland University-Kansas City,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,733,87,100
+183044,University of New Hampshire-Main Campus,New Hampshire,"New England (CT, ME, MA, NH, RI, VT)",2022,14926,87,16
+191533,Hartwick College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1160,87,10
+192004,Jamestown Business College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,353,87,81
+196051,SUNY Morrisville,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1983,87,16
+197151,School of Visual Arts,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4366,87,26
+198303,Chowan University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,969,87,11
+199607,Salem College,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,544,87,9
+204857,Ohio University-Main Campus,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,27778,87,21
+212106,Duquesne University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,9111,87,13
+214634,Pennsylvania State University-Penn State Shenango,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,348,87,31
+217688,Charleston Southern University,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4155,87,17
+219833,Christian Brothers University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2493,87,23
+228529,Tarleton State University,Texas,"Southwest (AZ, NM, OK, TX)",2022,17448,87,49
+229027,The University of Texas at San Antonio,Texas,"Southwest (AZ, NM, OK, TX)",2022,38728,87,28
+239105,Marquette University,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,12017,87,14
+421841,New York Conservatory for Dramatic Arts,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,504,87,32
+455770,Providence Christian College,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,141,87,33
+476683,Athena Career Academy,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,435,87,88
+117168,Laguna College of Art and Design,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,824,88,36
+123554,Saint Mary's College of California,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,3279,88,15
+139366,Columbus State University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,9045,88,30
+142461,Northwest Nazarene University,Idaho,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,4999,88,8
+148487,Roosevelt University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,4258,88,15
+149781,Wheaton College,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,3149,88,30
+153250,Dordt University,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2062,88,34
+155061,Fort Hays State University,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,16968,88,51
+155317,University of Kansas,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,29413,88,31
+156286,Bellarmine University,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3314,88,16
+162584,Frostburg State University,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4575,88,14
+165024,Bridgewater State University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,11383,88,20
+165529,Curry College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,2400,88,12
+165936,Gordon College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,2053,88,25
+166656,MCPHS University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,7345,88,15
+168254,Western New England University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,3732,88,11
+168430,Worcester State University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,7396,88,19
+169910,Ferris State University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,12162,88,16
+171100,Michigan State University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,54390,88,21
+174747,College of Saint Benedict,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1506,88,22
+178059,Maryville University of Saint Louis,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,13136,88,24
+190646,CUNY Medgar Evers College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4983,88,6
+193353,Mount Saint Mary College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2282,88,10
+194693,Rabbinical College Beth Shraga,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,48,88,100
+197230,Wells College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,366,88,11
+203517,Kent State University at Kent,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,29863,88,24
+204024,Miami University-Oxford,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,20436,88,15
+205027,Pontifical College Josephinum,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,168,88,86
+206507,Wilmington College,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,1128,88,18
+210146,Southern Oregon University,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,10699,88,30
+214786,Pennsylvania State University-Penn State Greater Allegheny,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,408,88,20
+216010,Shippensburg University of Pennsylvania,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,5812,88,19
+216311,Talmudical Yeshiva of Philadelphia,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,127,88,91
+216667,Washington & Jefferson College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1179,88,12
+216764,West Chester University of Pennsylvania,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,19021,88,23
+216852,Widener University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,6184,88,10
+217420,Rhode Island College,Rhode Island,"New England (CT, ME, MA, NH, RI, VT)",2022,10012,88,20
+221768,The University of Tennessee-Martin,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,8124,88,23
+224147,Texas A & M University-Corpus Christi,Texas,"Southwest (AZ, NM, OK, TX)",2022,13671,88,26
+225247,Hardin-Simmons University,Texas,"Southwest (AZ, NM, OK, TX)",2022,1906,88,17
+225432,University of Houston-Downtown,Texas,"Southwest (AZ, NM, OK, TX)",2022,17295,88,25
+227368,The University of Texas Rio Grande Valley,Texas,"Southwest (AZ, NM, OK, TX)",2022,47231,88,48
+228459,Texas State University,Texas,"Southwest (AZ, NM, OK, TX)",2022,41676,88,30
+232566,Longwood University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,5948,88,15
+238032,West Virginia University,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,27398,88,28
+377555,University of Washington-Bothell Campus,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,6793,88,25
+377564,University of Washington-Tacoma Campus,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,5681,88,36
+445692,Neumont College of Computer Science,Utah,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,652,88,18
+486202,Mingo Extended Learning Center,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,23,88,73
+110547,California State University-Dominguez Hills,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,18253,89,12
+132842,Albizu University-Miami,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1322,89,63
+139931,Georgia Southern University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,29617,89,33
+141264,Valdosta State University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,12550,89,25
+154350,Simpson College,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1288,89,22
+159416,Louisiana State University-Shreveport,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,12681,89,35
+160658,University of Louisiana at Lafayette,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,16788,89,38
+161873,University of Baltimore,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3890,89,23
+164447,American International College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,2254,89,14
+166489,Longy School of Music of Bard College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,327,89,15
+166692,Massachusetts Maritime Academy,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,1490,89,34
+167598,Regis College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,3924,89,8
+175856,Jackson State University,Mississippi,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,7764,89,10
+180416,Montana Technological University,Montana,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,1756,89,20
+184612,Felician University,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2682,89,13
+184694,Fairleigh Dickinson University-Florham Campus,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3545,89,12
+186432,Saint Peter's University,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4448,89,15
+190761,Dominican University New York,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1914,89,15
+193399,University of Mount Saint Vincent,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4382,89,16
+195243,St. Thomas Aquinas College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2527,89,16
+197735,Yeshivath Viznitz,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1138,89,100
+201690,Central State University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,6320,89,18
+209065,Linfield University,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,2018,89,20
+211024,Clarks Summit University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,704,89,32
+214069,Misericordia University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2423,89,19
+215770,Saint Joseph's University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,8647,89,13
+216366,Thomas Jefferson University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,9492,89,15
+218238,Limestone University,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2053,89,17
+219718,Bethel University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,6234,89,15
+230764,University of Utah,Utah,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,40455,89,29
+232937,Norfolk State University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,6370,89,16
+236230,Pacific Lutheran University,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,3021,89,18
+240365,University of Wisconsin-Oshkosh,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,16240,89,23
+240480,University of Wisconsin-Stevens Point,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,8935,89,24
+445188,University of California-Merced,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,9511,89,9
+451370,Yeshivas Be'er Yitzchok,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,85,89,63
+491525,Union Bible College,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,117,89,82
+496478,Motion Picture Institute,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,109,89,78
+104151,Arizona State University Campus Immersion,Arizona,"Southwest (AZ, NM, OK, TX)",2022,87154,90,25
+108852,American Academy of Dramatic Arts-Los Angeles,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,245,90,34
+148496,Dominican University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,3786,90,13
+153603,Iowa State University,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,32126,90,29
+153825,Loras College,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1410,90,17
+170082,Grand Valley State University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,24603,90,25
+171571,Oakland University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,18762,90,21
+183062,Keene State College,New Hampshire,"New England (CT, ME, MA, NH, RI, VT)",2022,3155,90,18
+185129,New Jersey City University,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,7694,90,13
+193973,Niagara University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4540,90,16
+199281,University of North Carolina at Pembroke,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,9494,90,23
+203386,Hondros College of Nursing,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,4614,90,71
+205124,Rabbinical College Telshe,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,69,90,93
+213622,UPMC St. Margaret School of Nursing,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,114,90,89
+214768,Pennsylvania State University-Penn State Hazleton,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,562,90,28
+228431,Stephen F Austin State University,Texas,"Southwest (AZ, NM, OK, TX)",2022,12740,90,21
+231581,Bridgewater College,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1461,90,14
+232186,George Mason University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,47916,90,23
+234155,Virginia State University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,5347,90,19
+238193,Alverno College,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,2002,90,23
+240277,University of Wisconsin-Green Bay,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,11868,90,22
+441937,California State University-Channel Islands,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,7214,90,7
+451352,Southeastern College-Charlotte,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,458,90,51
+457129,Chamberlain University-Florida,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1255,90,56
+461254,Galaxy Medical College,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,56,90,100
+486956,Chamberlain University-New Jersey,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1825,90,100
+106704,University of Central Arkansas,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,11341,91,30
+110510,California State University-San Bernardino,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,21960,91,16
+110608,California State University-Northridge,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,41751,91,21
+126818,Colorado State University-Fort Collins,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,36856,91,19
+127185,Fort Lewis College,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,3835,91,19
+129941,University of New Haven,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,10440,91,12
+147341,Monmouth College,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,783,91,14
+149222,Southern Illinois University-Carbondale,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,12419,91,17
+149514,Trinity International University-Illinois,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,1541,91,28
+157058,Kentucky State University,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2203,91,14
+157818,Transylvania University,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1007,91,17
+163851,Salisbury University,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,7736,91,19
+167394,College of Our Lady of the Elms,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,1513,91,14
+168740,Andrews University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,3914,91,21
+168786,Aquinas College,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,1362,91,16
+169716,University of Detroit Mercy,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,5767,91,11
+174437,North Central University,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1063,91,35
+180984,Concordia University-Nebraska,Nebraska,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,3447,91,23
+181297,Nebraska Methodist College of Nursing & Allied Health,Nebraska,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1307,91,51
+185572,Monmouth University,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,5428,91,12
+185590,Montclair State University,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,24972,91,20
+202170,Columbus College of Art & Design,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,996,91,32
+214625,Pennsylvania State University-Penn State New Kensington,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,534,91,22
+214795,Pennsylvania State University-Penn State Mont Alto,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,737,91,31
+214971,Pennsylvania Academy of the Fine Arts,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,182,91,11
+216296,Thaddeus Stevens College of Technology,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1407,91,52
+217518,Roger Williams University,Rhode Island,"New England (CT, ME, MA, NH, RI, VT)",2022,5007,91,15
+220215,Freed-Hardeman University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2484,91,34
+224226,Dallas Baptist University,Texas,"Southwest (AZ, NM, OK, TX)",2022,5034,91,9
+224545,Texas A&M University-Texarkana,Texas,"Southwest (AZ, NM, OK, TX)",2022,2546,91,16
+234030,Virginia Commonwealth University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,30796,91,25
+236577,Seattle Pacific University,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,3514,91,15
+237066,Whitworth University,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,2659,91,12
+237330,Concord University,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2167,91,23
+454227,Chamberlain University-Illinois,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,42988,91,62
+460190,Concorde Career Institute-Orlando,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,537,91,59
+487524,Husson University,Maine,"New England (CT, ME, MA, NH, RI, VT)",2022,3526,91,25
+491446,Bnos Zion Of Bobov Seminary,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,160,91,98
+100830,Auburn University at Montgomery,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,6464,92,19
+128391,Western Colorado University,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,5767,92,15
+132408,Baptist University of Florida,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,537,92,71
+147536,National Louis University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,11341,92,28
+151324,Indiana State University,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,9888,92,9
+152567,Trine University,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,4734,92,18
+154688,Baker University,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2682,92,33
+167288,Massachusetts College of Liberal Arts,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,1219,92,13
+175078,Southwest Minnesota State University,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,8521,92,23
+179265,University of Health Sciences and Pharmacy in St. Louis,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,724,92,15
+187444,William Paterson University of New Jersey,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,11340,92,12
+189857,Central Yeshiva Tomchei Tmimim Lubavitz,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,784,92,100
+196237,SUNY Old Westbury,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,5239,92,17
+198464,East Carolina University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,29957,92,19
+199148,University of North Carolina at Greensboro,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,19998,92,22
+200156,University of Jamestown,North Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1371,92,27
+206084,University of Toledo,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,17327,92,18
+208479,Concorde Career College-Portland,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,819,92,64
+208822,George Fox University,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,4903,92,19
+209612,Pacific University,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,3937,92,15
+213020,Indiana University of Pennsylvania-Main Campus,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,10128,92,22
+213163,UPMC Jameson School of Nursing,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,364,92,92
+214041,Millersville University of Pennsylvania,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,7858,92,20
+214740,Pennsylvania State University-Penn State DuBois,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,410,92,21
+226833,Midwestern State University,Texas,"Southwest (AZ, NM, OK, TX)",2022,6843,92,15
+228981,Texas Lutheran University,Texas,"Southwest (AZ, NM, OK, TX)",2022,1574,92,20
+229814,West Texas A & M University,Texas,"Southwest (AZ, NM, OK, TX)",2022,10667,92,30
+363934,University of Advancing Technology,Arizona,"Southwest (AZ, NM, OK, TX)",2022,1332,92,17
+409698,California State University-Monterey Bay,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,7861,92,8
+436836,University of Connecticut-Stamford,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,2557,92,16
+437237,IYRS School of Technology & Trades,Rhode Island,"New England (CT, ME, MA, NH, RI, VT)",2022,103,92,95
+443599,American College of Healthcare Sciences,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,1519,92,85
+451404,Talmudical Seminary of Bobov,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,461,92,89
+480569,Florida Institute of Technology-Online,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2158,92,38
+485999,Bet Medrash Gadol Ateret Torah,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,139,92,80
+494463,Derech Hachaim Seminary,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,290,92,98
+497824,Evangel University-College of Online Learning,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,313,92,92
+110617,California State University-Sacramento,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,36945,93,17
+113698,Dominican University of California,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,2558,93,13
+120883,University of the Pacific,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,6896,93,15
+139968,Gordon State College,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3749,93,46
+140340,Herzing University-Atlanta,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1083,93,69
+141486,Chaminade University of Honolulu,Hawaii,"Far West (AK, CA, HI, NV, OR, WA)",2022,2956,93,23
+144351,Concordia University-Chicago,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,7099,93,7
+145619,Benedictine University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,4644,93,17
+150604,Franklin College,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,1005,93,15
+155140,Haskell Indian Nations University,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,931,93,90
+167729,Salem State University,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,7806,93,18
+174491,University of Northwestern-St Paul,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,3557,93,32
+175005,St Catherine University,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,4261,93,25
+179566,Missouri State University-Springfield,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,26493,93,26
+182795,Franklin Pierce University,New Hampshire,"New England (CT, ME, MA, NH, RI, VT)",2022,1995,93,11
+192192,Keuka College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1429,93,13
+192448,Long Island University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,17374,93,8
+193052,Mesivta Torah Vodaath Rabbinical Seminary,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,608,93,89
+200253,Minot State University,North Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,3232,93,81
+203128,Hiram College,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,1076,93,11
+209506,Oregon Institute of Technology,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,8046,93,11
+209807,Portland State University,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,26034,93,22
+209825,University of Portland,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,4024,93,9
+211431,Carlow University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3229,93,19
+213774,Manor College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,674,93,17
+214698,Pennsylvania State University-Penn State Beaver,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,567,93,11
+214801,Pennsylvania State University-Penn State Abington,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3437,93,15
+214829,Pennsylvania State University-Penn State York,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,818,93,10
+219259,Northern State University,South Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,5311,93,29
+231095,Sterling College,Vermont,"New England (CT, ME, MA, NH, RI, VT)",2022,115,93,38
+233277,Radford University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,8921,93,11
+234827,Central Washington University,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,19286,93,24
+237011,Western Washington University,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,16309,93,29
+238324,Bellin College,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,931,93,88
+459842,Herzing University-Kenosha,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,1043,93,70
+481438,Yeshiva Yesodei Hatorah,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,85,93,92
+101365,Herzing University-Birmingham,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1049,94,69
+106467,Arkansas Tech University,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,10600,94,27
+117104,Life Pacific University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,556,94,55
+118198,MTI College,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1677,94,79
+122597,San Francisco State University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,28755,94,12
+123572,Sonoma State University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,7372,94,10
+137546,Stetson University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4236,94,10
+145372,Greenville University,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,1402,94,19
+147369,Moody Bible Institute,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,2786,94,57
+149329,Telshe Yeshiva-Chicago,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,102,94,100
+150668,Goshen College,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,805,94,18
+151306,University of Southern Indiana,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,10955,94,31
+151786,Marian University,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,4934,94,25
+152600,Valparaiso University,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,3192,94,9
+153861,Maharishi International University,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,3508,94,55
+157377,Midway University,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2242,94,24
+157809,Thomas More University,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2240,94,14
+160630,Southern University at New Orleans,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2853,94,15
+161226,University of Maine at Farmington,Maine,"New England (CT, ME, MA, NH, RI, VT)",2022,2258,94,20
+161253,University of Maine,Maine,"New England (CT, ME, MA, NH, RI, VT)",2022,14675,94,14
+161572,Unity Environmental University,Maine,"New England (CT, ME, MA, NH, RI, VT)",2022,7585,94,7
+171128,Michigan Technological University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,7509,94,19
+174154,Herzing University-Minneapolis,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1209,94,69
+177418,Fontbonne University,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1099,94,22
+178208,Midwestern Baptist Theological Seminary,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,4990,94,62
+178679,Ozark Christian College,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,736,94,41
+198136,Campbell University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,5969,94,15
+200785,Herzing University-Akron,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,743,94,69
+206525,Wittenberg University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,1384,94,14
+209603,Pacific Northwest College of Art,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,517,94,20
+212115,East Stroudsburg University of Pennsylvania,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,5931,94,22
+213367,La Salle University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,5133,94,11
+214652,Pennsylvania State University-Penn State Scranton,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,992,94,11
+214670,Pennsylvania State University-Penn State Lehigh Valley,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,994,94,16
+215266,University of Pittsburgh-Bradford,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2184,94,6
+215655,Robert Morris University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4979,94,13
+216931,Wilkes University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,6993,94,11
+217013,Wilson College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2169,94,20
+217907,Coker University,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1506,94,20
+219602,Austin Peay State University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,11318,94,25
+225627,University of the Incarnate Word,Texas,"Southwest (AZ, NM, OK, TX)",2022,8870,94,11
+228802,The University of Texas at Tyler,Texas,"Southwest (AZ, NM, OK, TX)",2022,11335,94,34
+229179,Texas Woman's University,Texas,"Southwest (AZ, NM, OK, TX)",2022,19829,94,20
+230728,Utah State University,Utah,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,33389,94,31
+236133,Northwest University,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,1128,94,43
+240338,Wisconsin Lutheran College,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,1273,94,22
+240392,Herzing University-Madison,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,6704,94,69
+383084,Hacienda La Puente Adult Education,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,940,94,88
+386472,Herzing University-Orlando,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1293,94,69
+439701,The King's University,Texas,"Southwest (AZ, NM, OK, TX)",2022,692,94,60
+447689,Georgia Gwinnett College,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,13555,94,44
+484905,University of North Texas at Dallas,Texas,"Southwest (AZ, NM, OK, TX)",2022,4595,94,15
+496973,Herzing University-Tampa,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,351,94,69
+498562,Commonwealth University of Pennsylvania,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,15299,94,24
+498571,Pennsylvania Western University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,15415,94,26
+102368,Troy University,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,17868,95,25
+110538,California State University-Chico,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,15709,95,10
+110556,California State University-Fresno,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,25971,95,20
+117627,La Sierra University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1927,95,19
+133854,Concorde Career Institute-Miramar,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,513,95,49
+136330,Palm Beach Atlantic University,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4348,95,12
+139205,Brewton-Parker College,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1067,95,31
+144281,Columbia College Chicago,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,7010,95,22
+154095,University of Northern Iowa,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,10196,95,33
+155399,Kansas State University,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,21976,95,32
+156125,Wichita State University,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,18874,95,22
+157085,University of Kentucky,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,33930,95,29
+160904,Xavier University of Louisiana,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3731,95,10
+164492,Anna Maria College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,1676,95,8
+167792,Bard College at Simon's Rock,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,317,95,64
+174783,Saint Cloud State University,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,12711,95,17
+180258,University of Providence,Montana,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,1111,95,52
+180489,The University of Montana,Montana,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,12591,95,19
+186186,Rabbinical College of America,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,245,95,85
+190503,Culinary Institute of America,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4060,95,38
+191621,Hilbert College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2912,95,22
+192624,Machzikei Hadath Rabbinical College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,178,95,87
+196015,SUNY College of Technology at Canton,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4140,95,22
+197285,The College of Westchester,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1498,95,24
+197911,Barton College,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1396,95,15
+199272,William Peace University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1071,95,15
+206604,Wright State University-Main Campus,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,11558,95,19
+211981,Delaware Valley University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2752,95,20
+214591,Pennsylvania State University-Penn State Erie-Behrend College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,3536,95,20
+214643,Pennsylvania State University-Penn State Wilkes-Barre,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,413,95,20
+215992,Laurel Technical Institute,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,212,95,48
+219903,Concorde Career College-Memphis,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2382,95,62
+220862,University of Memphis,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,25421,95,16
+229018,The University of Texas Permian Basin,Texas,"Southwest (AZ, NM, OK, TX)",2022,7456,95,48
+232982,Old Dominion University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,26975,95,22
+233301,Randolph College,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,790,95,10
+236452,Saint Martin's University,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,1848,95,15
+366711,California State University-San Marcos,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,16760,95,18
+433536,Herzing University-New Orleans,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,632,95,68
+443261,Southeastern College-Charleston,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,485,95,59
+459851,Herzing University-Brookfield,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,645,95,69
+460181,Concorde Career College-Dallas,Texas,"Southwest (AZ, NM, OK, TX)",2022,1032,95,48
+497833,Marian University-Ancilla,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,240,95,39
+101879,University of North Alabama,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,12159,96,30
+110574,California State University-East Bay,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,15404,96,7
+111188,California State University Maritime Academy,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,935,96,20
+120661,Concorde Career College-San Diego,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1207,96,71
+123679,Concorde Career College-Garden Grove,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1168,96,36
+133863,Concorde Career Institute-Tampa,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,765,96,66
+141981,University of Hawaii-West Oahu,Hawaii,"Far West (AK, CA, HI, NV, OR, WA)",2022,3870,96,25
+142522,Brigham Young University-Idaho,Idaho,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,57874,96,45
+155025,Emporia State University,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,6660,96,30
+161457,University of New England,Maine,"New England (CT, ME, MA, NH, RI, VT)",2022,11019,96,15
+167987,University of Massachusetts-Dartmouth,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,8726,96,16
+175430,Blue Mountain Christian University,Mississippi,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1092,96,51
+183026,Southern New Hampshire University,New Hampshire,"New England (CT, ME, MA, NH, RI, VT)",2022,251081,96,39
+187985,University of New Mexico-Main Campus,New Mexico,"Southwest (AZ, NM, OK, TX)",2022,24281,96,29
+190983,Elmira College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,691,96,12
+191931,Iona University,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4187,96,13
+194657,Rabbinical Academy Mesivta Rabbi Chaim Berlin,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,291,96,100
+200332,North Dakota State University-Main Campus,North Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,13385,96,31
+201371,Bluffton University,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,800,96,15
+207324,Oklahoma Christian University,Oklahoma,"Southwest (AZ, NM, OK, TX)",2022,3295,96,23
+213233,Johnson College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,679,96,59
+213321,King's College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2238,96,12
+213349,Kutztown University of Pennsylvania,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,8299,96,23
+214689,Pennsylvania State University-Penn State Altoona,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2736,96,13
+214713,Pennsylvania State University-Penn State Harrisburg,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,5026,96,13
+214731,Pennsylvania State University-Penn State Brandywine,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1304,96,17
+217059,York College of Pennsylvania,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,4207,96,17
+219709,Belmont University,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,9526,96,22
+226471,University of Mary Hardin-Baylor,Texas,"Southwest (AZ, NM, OK, TX)",2022,3854,96,6
+232609,University of Lynchburg,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3393,96,13
+235097,Eastern Washington University,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,17265,96,31
+237792,Shepherd University,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4252,96,34
+237899,West Virginia State University,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4438,96,12
+237969,West Virginia Wesleyan College,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1002,96,19
+240426,University of Wisconsin-Superior,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,3314,96,14
+240727,University of Wyoming,Wyoming,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,12585,96,29
+459949,Texas A&M University-San Antonio,Texas,"Southwest (AZ, NM, OK, TX)",2022,8479,96,12
+483036,Texas A&M University-Central Texas,Texas,"Southwest (AZ, NM, OK, TX)",2022,3014,96,51
+486284,Bethany Global University,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,310,96,44
+493646,Ohel Margulia Seminary,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,246,96,100
+497462,Redeemers University North America,Texas,"Southwest (AZ, NM, OK, TX)",2022,317,96,100
+100724,Alabama State University,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4255,97,15
+110495,California State University-Stanislaus,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,11486,97,18
+124937,Concorde Career College-North Hollywood,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,959,97,69
+131876,Trinity Washington University,District of Columbia,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2188,97,21
+135081,Keiser University-Ft Lauderdale,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,32214,97,50
+140988,Shorter University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1899,97,31
+153977,Mercy College of Health Sciences,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1314,97,47
+154527,Wartburg College,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1478,97,13
+154749,Bethel College-North Newton,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,513,97,19
+157951,Western Kentucky University,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,19863,97,38
+161341,University of Maine at Presque Isle,Maine,"New England (CT, ME, MA, NH, RI, VT)",2022,2614,97,20
+161563,Thomas College,Maine,"New England (CT, ME, MA, NH, RI, VT)",2022,1974,97,28
+174817,Saint Mary's University of Minnesota,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,5727,97,21
+174899,The College of Saint Scholastica,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,4109,97,23
+176017,University of Mississippi,Mississippi,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,24701,97,21
+177144,Culver-Stockton College,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1082,97,22
+183974,Centenary University,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1686,97,15
+192785,Maria College of Albany,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1033,97,39
+197984,Belmont Abbey College,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1662,97,15
+212133,Eastern University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,8087,97,25
+213358,La Roche University,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2644,97,4
+213400,Lancaster Bible College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2668,97,54
+214704,Pennsylvania State University-Penn State Berks,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2306,97,12
+215284,University of Pittsburgh-Johnstown,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,2133,97,15
+219046,Black Hills State University,South Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,5614,97,32
+227863,University of St Thomas,Texas,"Southwest (AZ, NM, OK, TX)",2022,4228,97,47
+228501,Sul Ross State University,Texas,"Southwest (AZ, NM, OK, TX)",2022,2441,97,36
+228705,Texas A & M University-Kingsville,Texas,"Southwest (AZ, NM, OK, TX)",2022,7003,97,20
+229063,Texas Southern University,Texas,"Southwest (AZ, NM, OK, TX)",2022,9571,97,29
+232025,Emory & Henry University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1459,97,16
+235167,The Evergreen State College,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,2638,97,22
+237215,Bluefield State University,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1479,97,36
+237525,Marshall University,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,12739,97,25
+436827,University of Connecticut-Avery Point,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,559,97,17
+444866,Southeastern College-Columbia,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,426,97,53
+447263,Joyce University of Nursing and Health Sciences,Utah,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,3421,97,66
+463056,University of Connecticut-Hartford Campus,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,1695,97,25
+476975,Colorado State University Global,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,14535,97,73
+105589,Prescott College,Arizona,"Southwest (AZ, NM, OK, TX)",2022,1277,98,18
+115755,California State Polytechnic University-Humboldt,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,6689,98,12
+127565,Metropolitan State University of Denver,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,21129,98,19
+133845,Concorde Career Institute-Jacksonville,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,916,98,62
+139250,College of Coastal Georgia,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3904,98,30
+140252,Life University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3284,98,38
+149231,Southern Illinois University-Edwardsville,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,14563,98,21
+152336,University of Saint Francis-Fort Wayne,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,2290,98,27
+153375,Grand View University,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2111,98,18
+156189,Alice Lloyd College,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,599,98,10
+157757,Spalding University,Kentucky,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2005,98,19
+159966,Nicholls State University,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,6763,98,43
+160038,Northwestern State University of Louisiana,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,11332,98,36
+169479,Davenport University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,6244,98,16
+175227,Dunwoody College of Technology,Minnesota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1514,98,72
+176947,Central Methodist University-College of Liberal Arts and Sciences,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1138,98,26
+182917,Magdalen College,New Hampshire,"New England (CT, ME, MA, NH, RI, VT)",2022,62,98,31
+183080,Plymouth State University,New Hampshire,"New England (CT, ME, MA, NH, RI, VT)",2022,4321,98,15
+211583,Chestnut Hill College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1666,98,10
+215275,University of Pittsburgh-Greensburg,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,1394,98,14
+216083,South Hills School of Business & Technology,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,329,98,52
+217934,Columbia College,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2138,98,9
+237367,Fairmont State University,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3865,98,37
+436818,University of Connecticut-Waterbury Campus,Connecticut,"New England (CT, ME, MA, NH, RI, VT)",2022,872,98,15
+488305,Elim Bible Institute and College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,122,98,63
+497480,Reach University,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1189,98,58
+102669,Alaska Pacific University,Alaska,"Far West (AK, CA, HI, NV, OR, WA)",2022,758,99,7
+126182,Adams State University,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,3715,99,19
+126687,Concorde Career College-Aurora,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,1081,99,63
+128106,Colorado State University Pueblo,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,11857,99,41
+150145,Bethel University,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,1486,99,33
+154712,Benedictine College,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2479,99,21
+155283,Concorde Career College-Kansas City,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1159,99,42
+160612,Southeastern Louisiana University,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,16164,99,49
+161235,University of Maine at Fort Kent,Maine,"New England (CT, ME, MA, NH, RI, VT)",2022,1703,99,11
+169655,MIAT College of Technology,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,2182,99,57
+175616,Delta State University,Mississippi,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,3375,99,24
+176035,Mississippi University for Women,Mississippi,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2973,99,28
+176372,University of Southern Mississippi,Mississippi,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,15528,99,18
+178341,Missouri Southern State University,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,4658,99,31
+181738,Union Adventist University,Nebraska,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,796,99,10
+188942,Associated Beth Rivkah Schools,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,311,99,88
+194763,Rabbinical Seminary of America,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,613,99,94
+205391,The Modern College of Design,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,208,99,25
+207263,Northeastern State University,Oklahoma,"Southwest (AZ, NM, OK, TX)",2022,8097,99,43
+208646,Eastern Oregon University,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,4626,99,25
+217864,Citadel Military College of South Carolina,South Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4446,99,31
+219471,University of South Dakota,South Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,12453,99,30
+232043,Eastern Mennonite University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1619,99,18
+232557,Liberty University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,138745,99,20
+233611,Southern Virginia University,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1127,99,35
+238661,Edgewood College,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,2078,99,19
+244437,Georgia State University-Perimeter College,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,20056,99,29
+487588,Concorde Career College-Southaven,Mississippi,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,609,99,69
+497037,Abilene Christian University-Undergraduate Online,Texas,"Southwest (AZ, NM, OK, TX)",2022,1161,99,100
+101453,Heritage Christian University,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,190,100,75
+102395,United States Sports Academy,Alabama,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,297,100,100
+107585,University of Arkansas Community College-Morrilton,Arkansas,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,2405,100,48
+113582,Design Institute of San Diego,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,148,100,100
+117283,Latin American Bible Institute,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,60,100,38
+123280,Shasta Bible College and Graduate School,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,48,100,100
+124706,Concorde Career College-San Bernardino,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,1333,100,55
+127653,Naropa University,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,1212,100,32
+127954,Montessori Education Center of the Rockies,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,49,100,100
+128586,Bais Binyomin Academy,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,65,100,100
+131830,National Conservatory of Dramatic Arts,District of Columbia,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,27,100,0
+137272,St. John Vianney College Seminary,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,55,100,100
+142090,Boise Bible College,Idaho,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,112,100,53
+145354,Graham Hospital School of Nursing,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,49,100,100
+149639,VanderCook College of Music,Illinois,"Great Lakes (IL, IN, MI, OH, WI)",2022,1027,100,50
+152497,Saint Elizabeth School of Nursing,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,155,100,44
+153302,Emmaus Bible College,Iowa,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,217,100,61
+155496,Manhattan Christian College,Kansas,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,151,100,74
+164614,Boston Baptist College,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,44,100,38
+165608,Diman Regional Technical Institute,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,44,100,100
+170000,Grace Christian University,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,1528,100,38
+172033,Sacred Heart Major Seminary,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,513,100,100
+176451,Wesley Biblical Seminary,Mississippi,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,328,100,75
+176983,Grand River Technical School,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,77,100,91
+177083,Conception Seminary College,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,29,100,100
+177931,Lex La-Ray Technical Center,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,30,100,100
+178767,Stevens-The Institute of Business & Arts,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,134,100,44
+179326,Southwest Baptist University,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,2734,100,32
+182980,New England College,New Hampshire,"New England (CT, ME, MA, NH, RI, VT)",2022,4055,100,4
+185679,JFK Muhlenberg Harold B. and Dorothy A. Snyder Schools,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,607,100,100
+187745,Institute of American Indian and Alaska Native Culture and Arts Development,New Mexico,"Southwest (AZ, NM, OK, TX)",2022,1173,100,74
+191940,Isabella Graham Hart School of Practical Nursing,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,294,100,83
+192961,St. Peter's Hospital College of Nursing,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,159,100,100
+194189,Ohr Hameir Theological Seminary,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,134,100,100
+194718,Rabbinical Seminary Mkor Chaim,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,85,100,96
+194736,Rabbinical College of Long Island,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,160,100,100
+195289,Samaritan Hospital School of Nursing,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,160,100,100
+195438,Sh'or Yoshuv Rabbinical College,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,253,100,100
+195702,Saint Elizabeth College of Nursing,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,154,100,50
+196440,Talmudical Institute of Upstate New York,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,16,100,100
+203030,Adult and Community Education-Hudson,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,108,100,100
+204893,Trinity Health System School of Nursing,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,46,100,83
+206613,Wright State University-Lake Campus,Ohio,"Great Lakes (IL, IN, MI, OH, WI)",2022,1629,100,41
+208512,Sumner College,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,653,100,100
+209241,Mount Angel Seminary,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,123,100,0
+214023,ASPIRA City College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,15,100,67
+215637,Walnut Hill College,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,325,100,55
+217040,Yeshivath Beth Moshe,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,40,100,82
+219240,Kairos University,South Dakota,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,1166,100,20
+220604,Le Moyne-Owen College,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,748,100,27
+228796,The University of Texas at El Paso,Texas,"Southwest (AZ, NM, OK, TX)",2022,28323,100,36
+233408,Riverside College of Health Careers,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,410,100,100
+237136,Appalachian Bible College,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,273,100,85
+238980,Lakeland University,Wisconsin,"Great Lakes (IL, IN, MI, OH, WI)",2022,2905,100,19
+245777,Bais Medrash Elyon,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,107,100,100
+246071,Career Technology Center of Lackawanna County,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,89,100,100
+260363,Greene County Career and Technology Center,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,15,100,100
+262466,Dr. Ida Rolf Institute,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,43,100,100
+365763,Morris County Vocational School District,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,61,100,92
+382416,Greater Lowell Technical School,Massachusetts,"New England (CT, ME, MA, NH, RI, VT)",2022,86,100,100
+417655,Warrensburg Area Career Center,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,19,100,78
+417682,Cass Career Center,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,15,100,100
+417992,Orange Ulster BOCES-Practical Nursing Program,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,46,100,67
+418010,Broome Delaware Tioga BOCES-Practical Nursing Program,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,72,100,100
+418029,Washington Saratoga Warren Hamilton Essex BOCES-Practical Nursing Program,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,42,100,78
+418065,Eastern Suffolk BOCES,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,361,100,91
+418427,Chester County Intermediate Unit,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,119,100,100
+419217,HCA Florida Mercy Hospital School of Practical Nursing,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,78,100,100
+421708,Arizona College of Nursing-Tempe,Arizona,"Southwest (AZ, NM, OK, TX)",2022,1555,100,55
+431105,Dutchess BOCES-Practical Nursing Program,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,111,100,100
+431600,UPMC Mercy School of Nursing,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,233,100,81
+434362,Northwest HVAC/R Training Center,Washington,"Far West (AK, CA, HI, NV, OR, WA)",2022,35,100,82
+441487,Texas County Technical College,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,88,100,36
+441742,Concorde Career College-Grand Prairie,Texas,"Southwest (AZ, NM, OK, TX)",2022,1398,100,78
+442426,St Louis College of Health Careers-Fenton,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,713,100,81
+445267,Central Methodist University-College of Graduate and Extended Studies,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,4557,100,33
+446303,Healthcare Training Institute,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,126,100,10
+449834,Virginia Beach Theological Seminary,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,42,100,100
+457925,Portland Actors Conservatory,Oregon,"Far West (AK, CA, HI, NV, OR, WA)",2022,12,100,100
+458034,Houston International College Cardiotech Ultrasound School,Texas,"Southwest (AZ, NM, OK, TX)",2022,113,100,100
+460206,Concorde Career College-San Antonio,Texas,"Southwest (AZ, NM, OK, TX)",2022,835,100,59
+461528,Manna University,North Carolina,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,323,100,84
+461953,Colorado Academy of Veterinary Technology,Colorado,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,53,100,100
+475608,Criswell College,Texas,"Southwest (AZ, NM, OK, TX)",2022,185,100,61
+475741,Chamberlain University-Indiana,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,292,100,100
+476601,Bais HaMedrash and Mesivta of Baltimore,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,91,100,100
+476753,Aveda Institute-Tucson,Arizona,"Southwest (AZ, NM, OK, TX)",2022,389,100,100
+476939,FVI School of Nursing and Technology,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,1546,100,63
+481225,Mid-South Christian College,Tennessee,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,21,100,63
+482158,Middle Georgia State University,Georgia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,9626,100,37
+482228,Veritas Baptist College,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,276,100,64
+482556,DeVry University-New Jersey,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,121,100,67
+483948,Bos-Man's Barber College,Louisiana,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,51,100,100
+485360,The Vocational Nursing Institute Inc,Texas,"Southwest (AZ, NM, OK, TX)",2022,20,100,100
+485856,Studio Incamminati,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,43,100,100
+486017,Yeshiva Ohr Yisrael,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,23,100,100
+486026,Yeshiva Sholom Shachna,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,141,100,100
+487375,Arizona College of Nursing-Las Vegas,Nevada,"Far West (AK, CA, HI, NV, OR, WA)",2022,1414,100,46
+487977,Martinsburg College,West Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,4261,100,33
+488776,John Patrick University of Health and Applied Sciences,Indiana,"Great Lakes (IL, IN, MI, OH, WI)",2022,466,100,100
+490203,Bolivar Technical College,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,210,100,100
+490382,Harmony Health Care Institute,New Hampshire,"New England (CT, ME, MA, NH, RI, VT)",2022,172,100,100
+490504,Yeshiva Ohr Naftoli,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,56,100,100
+491251,The Culinary School of Fort Worth,Texas,"Southwest (AZ, NM, OK, TX)",2022,109,100,74
+491631,Women's Institute of Torah Seminary and College,Maryland,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,203,100,93
+491640,Yeshiva Gedolah Keren Hatorah,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,191,100,100
+491765,Yeshivas Emek Hatorah,New Jersey,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,101,100,100
+493664,Yeshivat Hechal Shemuel,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,78,100,100
+493813,Falcon Institute of Health and Science,Pennsylvania,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,269,100,100
+494162,Arizona College of Nursing-Dallas,Texas,"Southwest (AZ, NM, OK, TX)",2022,453,100,48
+495031,Bais Medrash of Dexter Park,New York,"Mid East (DE, DC, MD, NJ, NY, PA)",2022,94,100,100
+495420,Arizona College of Nursing-Tampa,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,431,100,47
+495439,Arizona College of Nursing-Fort Lauderdale,Florida,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,460,100,33
+495448,Arizona College of Nursing-Tucson,Arizona,"Southwest (AZ, NM, OK, TX)",2022,656,100,29
+495457,Arizona College of Nursing-Phoenix,Arizona,"Southwest (AZ, NM, OK, TX)",2022,1112,100,71
+497268,Arizona College of Nursing-Salt Lake City,Utah,"Rocky Mountains (CO, ID, MT, UT, WY)",2022,351,100,42
+497912,Concorde Career College-Broadway,Missouri,"Plains (IA, KS, MN, MO, NE, ND, SD)",2022,216,100,68
+498049,Arizona College of Nursing-Southfield,Michigan,"Great Lakes (IL, IN, MI, OH, WI)",2022,475,100,51
+498447,Arizona College of Nursing-Falls Church,Virginia,"Southeast (AL, AR, FL, GA, KY, LA, MS, NC, SC, TN, VA, WV)",2022,256,100,41
+498456,Arizona College of Nursing-Ontario,California,"Far West (AK, CA, HI, NV, OR, WA)",2022,277,100,42
